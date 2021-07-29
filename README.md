@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebApp development (+ other fields)
 - 🌱 I’m currently learning Django web framework
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me t.me/nezort11
+- 📫 How to reach me https://t.me/nezort11
 
 <!---
 Egor4ik325/Egor4ik325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
