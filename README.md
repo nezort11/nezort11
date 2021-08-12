@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Egor4ik325
-- 👀 I’m interested in web development (+ other fields)
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Django web framework
 - 💞️ I’m looking to collaborate on fullstack app
 - 📫 How to reach me: [Telegram](https://t.me/nezort11)
