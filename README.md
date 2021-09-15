@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Egor4ik325
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Django web framework
-- 💞️ I’m looking to collaborate on full-stack webapp
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on full-stack project
 - 📫 You can reach me on zorinegor325@gmail.com
 
 <!---
