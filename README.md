@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on full-stack project
-- 📫 You can reach me on zorinegor325@gmail.com
+- 📫 You can reach me on [egorzorin.me](http://egorzorin.me)
 
 <!---
 Egor4ik325/Egor4ik325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
