@@ -4,13 +4,11 @@
 
 <h2 align="center">I develop Python/Django apps 💻</h2>
 
----
-
-I'am interested in Backend ⚙️ but sometimes also do Frontend 🖼 and DevOps 📦.
+My main interest is back-end ⚙️ but sometimes also do front-end 🖼 and DevOps 📦.
 
 ## 🛠 Currently I am working on
 
-- Q/A product ranking API
+- (RankRise)[rankrise]: Q/A product ranking API
 
 ## 🌟 Technologies
 
