@@ -1,6 +1,6 @@
-![Banner](banner.png)
+<img src="https://user-images.githubusercontent.com/59317431/139434562-c7515ba6-91e9-4255-8c8a-97afa928dc07.png" alt="profile banner">
 
-<h3 align="center">Hi, I'am [Egor](http://egorindev.com) 😎</h3>
+<h3 align="center">Hi, I'am <a href="http://egorindev.com" target="_blank" rel="noreferrer">Egor</a> 😎</h3>
 
 <h2 align="center">I develop Python/Django apps 💻</h2>
 
