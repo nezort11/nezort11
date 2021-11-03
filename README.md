@@ -8,10 +8,21 @@ My main interest is back-end ⚙️ but sometimes also do front-end 🖼 and Dev
 
 ## 🛠 Currently I am working on
 
-- (RankRise)[rankrise]: Q/A product ranking API
+[![Repo Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=Egor4ik325&repo=demanage)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏗 Recent project
+
+[![Repo Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=Egor4ik325&repo=rankrise)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Technologies
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+
+## 📊 Stats
+
+[![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egor4ik325&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor4ik325&exclude_repo=bulwark-sln,bulwark-cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://komarev.com/ghpvc/?username=Egor4ik325)
