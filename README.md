@@ -23,6 +23,11 @@ My main interest is back-end ⚙️ but sometimes also do front-end 🖼 and Dev
 ## 📊 Stats
 
 [![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egor4ik325&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor4ik325&exclude_repo=bulwark-sln,bulwark-cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325)](https://github.com/anuraghazra/github-readme-stats)
-![Profile views](https://komarev.com/ghpvc/?username=Egor4ik325)
+
+[![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=compact)](https://wakatime.com/@0801e752-de74-44cb-a3ef-c564083431bb)
+
+[![Profile views](https://komarev.com/ghpvc/?username=Egor4ik325)](https://egorindev.com)
+
+[![wakatime](https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg)](https://wakatime.com/@0801e752-de74-44cb-a3ef-c564083431bb)
