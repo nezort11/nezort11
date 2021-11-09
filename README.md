@@ -8,17 +8,37 @@ My main interest is back-end ⚙️ but sometimes also do front-end 🖼 and Dev
 
 ## 🛠 Currently I am working on
 
-[![Repo Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=Egor4ik325&repo=demanage)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=Egor4ik325&repo=demanage)](https://github.com/Egor4ik325/demanage)
 
-## 🏗 Recent project
-
-[![Repo Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=Egor4ik325&repo=rankrise)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+
+
+## 📅 Previous projects
+
+- [RankRise](https://github.com/Egor4ik325/rankrise): Q/A product ranking API
+
+- [Chaticket](https://github.com/Egor4ik325/chaticket): Real-time web application for chatting
+
+- [Anyberry](https://github.com/Egor4ik325/anyberry): E-commerce website for buying virtual berries
+
+- [Converic](https://github.com/Egor4ik325/converic): Online image format converter
+
+- [Auction](https://github.com/Egorik325/auction-commerce): Auction e-commerce platform for selling goods
+
+- [Social network](https://github.com/Egorik325/network): Social networking website for making posts
+
+- [Mail](https://github.com/Egorik325/django-mail): Send mail over HTTP to the other users
+
+- [Wikipedia](https://github.com/Egorik325/encyclopedia): Server-side rendered wiki pages
+
+- [Weight tracker](https://github.com/Egorik325/weight-tracker): Manage your weight by making food records
+
+- [Learning log](https://github.com/Egorik325/django-learning-logs): Blog webapp for keeping track of learnt stuff
 
 ## 📊 Stats
 
