@@ -4,12 +4,30 @@
 
 <h2 align="center">I develop Python/Django apps 💻</h2>
 
-My main interest is back-end ⚙️ but sometimes also do front-end 🖼 and DevOps 📦.
+```python
+Developer.objects.create(
+    name="Egor",
+    country="Russia",
+    develop="Backend"
+    language="Python",
+    framework="Django",
+)
+```
+
+## ✉️ Contact me
+
+- 📬 Email: [nezort11@gmail.com](mailto://nezort11@gmail.com)
+- 📬 GitHub: [Egor4ik325](https://github.com/Egor4ik325)
 
 ## 🛠 Currently I am working on
 
 [![Repo Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=Egor4ik325&repo=demanage)](https://github.com/Egor4ik325/demanage)
 
+## Skills
+
+- ⚙️ Backend:     ⚡️⚡️⚡️⚡️⚡️
+- 🖼 Frontend:     ⚡️⚡️
+- 📦 DevOps:     ⚡️⚡️
 
 ## 🌟 Technologies
 
@@ -17,6 +35,9 @@ My main interest is back-end ⚙️ but sometimes also do front-end 🖼 and Dev
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
+## 📝 Resume
+
+You can download and review my [resume](https://github.com/Egor4ik325/Egor4ik325/files/7506574/CV.v2.0.pdf).
 
 ## 📅 Previous projects
 
@@ -47,7 +68,5 @@ My main interest is back-end ⚙️ but sometimes also do front-end 🖼 and Dev
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor4ik325&exclude_repo=bulwark-sln,bulwark-cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=compact)](https://wakatime.com/@0801e752-de74-44cb-a3ef-c564083431bb)
-
-[![Profile views](https://komarev.com/ghpvc/?username=Egor4ik325)](https://egorindev.com)
 
 [![wakatime](https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg)](https://wakatime.com/@0801e752-de74-44cb-a3ef-c564083431bb)
