@@ -4,24 +4,17 @@
 
 <h2 align="center">I develop Python/Django apps 💻</h2>
 
-```python
-Developer.objects.create(
-    name="Egor",
-    country="Russia",
-    develop="Backend"
-    language="Python",
-    framework="Django",
-)
-```
+I prefer design-driven 🎨 testing/developement and adore project-driven life 🌍 development.
 
 ## ✉️ Contact me
 
-- 📬 Email: [nezort11@gmail.com](mailto://nezort11@gmail.com)
-- 📬 GitHub: [Egor4ik325](https://github.com/Egor4ik325)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nezort11/)
 
-## 🛠 Currently I am working on
+- LinkedIn
 
-[![Repo Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=Egor4ik325&repo=demanage)](https://github.com/Egor4ik325/demanage)
+## 🛠 Current project
+
+[![Repo Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=Egor4ik325&repo=redirink)](https://github.com/Egor4ik325/redirink)
 
 ## Skills
 
@@ -39,7 +32,9 @@ Developer.objects.create(
 
 You can download and review my [resume](https://github.com/Egor4ik325/Egor4ik325/files/7506574/CV.v2.0.pdf).
 
-## 📅 Previous projects
+## 📅 Other projects
+
+- [Demanage](https://github.com/Egor4ik325/demanage): Boarding-style project management webapp
 
 - [RankRise](https://github.com/Egor4ik325/rankrise): Q/A product ranking API
 
