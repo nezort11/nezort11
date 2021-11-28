@@ -4,7 +4,7 @@
 
 <h2 align="center">I develop Python/Django apps 💻</h2>
 
-I prefer design-driven 🎨 testing/developement and adore project-driven life 🌍 development.
+I like design-driven 🎨 testing/developement and adore project-driven life 🌍 development. I choose Business-driven 💼 learning/development 🔬 because it makes the most sense for me (orienting ⛳️ on what is really important).
 
 ## ✉️ Contact me
 
@@ -21,6 +21,10 @@ I prefer design-driven 🎨 testing/developement and adore project-driven life �
 - ⚙️ Backend:     ⚡️⚡️⚡️⚡️⚡️
 - 🖼 Frontend:     ⚡️⚡️
 - 📦 DevOps:     ⚡️⚡️
+- 🎁 Fullstack: ?
+- 🤖 Data/AI ...: ? 
+- 💰 Blockchain: ?
+- ...: ?
 
 ## 🌟 Technologies
 
@@ -44,17 +48,17 @@ You can download and review my [resume](https://github.com/Egor4ik325/Egor4ik325
 
 - [Converic](https://github.com/Egor4ik325/converic): Online image format converter
 
-- [Auction](https://github.com/Egorik325/auction-commerce): Auction e-commerce platform for selling goods
+- [Auction](https://github.com/Egor4ik325/auction-commerce): Auction e-commerce platform for selling goods
 
-- [Social network](https://github.com/Egorik325/network): Social networking website for making posts
+- [Social network](https://github.com/Egor4ik325/network): Social networking website for making posts
 
-- [Mail](https://github.com/Egorik325/django-mail): Send mail over HTTP to the other users
+- [Mail](https://github.com/Egor4ik325/django-mail): Send mail over HTTP to the other users
 
-- [Wikipedia](https://github.com/Egorik325/encyclopedia): Server-side rendered wiki pages
+- [Wikipedia](https://github.com/Egor4ik325/encyclopedia): Server-side rendered wiki pages
 
-- [Weight tracker](https://github.com/Egorik325/weight-tracker): Manage your weight by making food records
+- [Weight tracker](https://github.com/Egor4ik325/weight-tracker): Manage your weight by making food records
 
-- [Learning log](https://github.com/Egorik325/django-learning-logs): Blog webapp for keeping track of learnt stuff
+- [Learning log](https://github.com/Egor4ik325/django-learning-logs): Blog webapp for keeping track of learnt stuff
 
 ## 📊 Stats
 
@@ -64,4 +68,4 @@ You can download and review my [resume](https://github.com/Egor4ik325/Egor4ik325
 
 [![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=compact)](https://wakatime.com/@0801e752-de74-44cb-a3ef-c564083431bb)
 
-[![wakatime](https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg)](https://wakatime.com/@0801e752-de74-44cb-a3ef-c564083431bb)
+[![wakatime](https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg)](https://wakatime.com/Egor4ik325)
