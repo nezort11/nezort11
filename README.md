@@ -22,15 +22,21 @@ I like design-driven 🎨 testing/developement and adore project-driven life �
 - 🖼 Frontend:     ⚡️⚡️
 - 📦 DevOps:     ⚡️⚡️
 - 🎁 Fullstack: ?
-- 🤖 Data/AI ...: ? 
+- 🤖 Data/AI: ?
 - 💰 Blockchain: ?
+- Scraping: ?
+- GameDev: ?
 - ...: ?
 
-## 🌟 Technologies
+## 🌟 Technology Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ## 📝 Resume
 
