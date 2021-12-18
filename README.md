@@ -4,45 +4,47 @@
 
 <h2 align="center">I develop Python/Django apps 💻</h2>
 
+Business. Research. Design. Manage. Code. Test. Repeat.
+
 I like design-driven 🎨 testing/developement and adore project-driven life 🌍 development. I choose Business-driven 💼 learning/development 🔬 because it makes the most sense for me (orienting ⛳️ on what is really important).
 
 ## ✉️ Contact me
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nezort11/)
 
-- LinkedIn
-
 ## 🛠 Current project
 
-[![Repo Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=Egor4ik325&repo=redirink)](https://github.com/Egor4ik325/redirink)
+Investigating 🔭
 
 ## Skills
 
-- ⚙️ Backend:     ⚡️⚡️⚡️⚡️⚡️
-- 🖼 Frontend:     ⚡️⚡️
-- 📦 DevOps:     ⚡️⚡️
-- 🎁 Fullstack: ?
-- 🤖 Data/AI: ?
-- 💰 Blockchain: ?
-- Scraping: ?
-- GameDev: ?
-- ...: ?
+- ⚙️ Backend: ⚡️⚡️⚡️⚡️⚡️
+
+- 🖼 Frontend: ⚡️⚡️
+
+- 📦 DevOps: ⚡️⚡️
 
 ## 🌟 Technology Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-37814A.svg?logo=celery&style=flat&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ## 📝 Resume
 
 You can download and review my [resume](https://github.com/Egor4ik325/Egor4ik325/files/7506574/CV.v2.0.pdf).
 
 ## 📅 Other projects
+
+- [Redirink](https://github.com/Egor4ik325/redirink): URL shortener and redirect web service. 
+
+- [deliveryHunt](https://github.com/Egor4ik325/deliveryHunt): Express delivery service
 
 - [Demanage](https://github.com/Egor4ik325/demanage): Boarding-style project management webapp
 
@@ -74,4 +76,5 @@ You can download and review my [resume](https://github.com/Egor4ik325/Egor4ik325
 
 [![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=compact)](https://wakatime.com/@0801e752-de74-44cb-a3ef-c564083431bb)
 
-[![wakatime](https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg)](https://wakatime.com/Egor4ik325)
+[![wakatime](https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg)](https://wakatime.com/Egor4ik325) since Nov 2021
+
