@@ -2,9 +2,9 @@
 
 <h3 align="center">Hi, I'am <a href="http://egorindev.com" target="_blank" rel="noreferrer">Egor</a> 😎</h3>
 
-<h2 align="center">I develop Python/Django apps 💻</h2>
+<h2 align="center">I develop Python/Django APIs 💻</h2>
 
-I like design-driven 🎨 testing/developement and adore project-driven life 🌍 development. I choose Business-driven 💼 learning/development 🔬 because it makes the most sense for me (orienting ⛳️ on what is really important).
+I like design-driven 🎨 testing/developement and adore project-driven life 🌍 development. I choose Business-driven 💼 learning/development 🔬.
 
 ## ✉️ Find me
 
@@ -19,31 +19,39 @@ Investigating 🔭
 
 - ⚙️ Backend: ⚡️⚡️⚡️⚡️⚡️⚡️
 
+- 📦 DevOps: ⚡️⚡️⚡️
+
 - 🖼 Frontend: ⚡️⚡️
 
-- 📦 DevOps: ⚡️⚡️
-
 ## 🌟 Technology Stack
+
+The stack is most suitable for creating medium/large synchronous monolithic RESTful CRUD APIs or MVTs with background processing.
 
 Backend:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-23092E20?style=flat&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&style=flat&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20?style=flat&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-37814A?logo=celery&style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&style=flat&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?logo=redis&style=flat&logoColor=white)
 
 Frontend:
 
-![Node](https://img.shields.io/badge/node-43853D?style=flat&logo=node&logoColor=white)
+![Node](https://img.shields.io/badge/node-43853D?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
+DevOps:
+
+![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&style=flat&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Actions](https://img.shields.io/badge/actions-100000?style=flat&logo=github&logoColor=white)
+
 ## 📝 Resume
 
-You can download and review my [resume](https://github.com/Egor4ik325/Egor4ik325/files/7506574/CV.v2.0.pdf).
+If you want you can look at my [resume](https://github.com/Egor4ik325/Egor4ik325/files/7506574/CV.v2.0.pdf).
 
 ## 📅 Other projects
 
@@ -70,4 +78,3 @@ You can download and review my [resume](https://github.com/Egor4ik325/Egor4ik325
 [![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=compact)](https://wakatime.com/@0801e752-de74-44cb-a3ef-c564083431bb)
 
 [![wakatime](https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg)](https://wakatime.com/Egor4ik325) since Nov 2021
-
