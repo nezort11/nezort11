@@ -2,19 +2,19 @@
 
 <h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Egor</a> 😎</h3>
 
-<h2 align="center">I develop Python/Django _APIs_ 4 _SPAs_ 💻</h2>
+<h2 align="center">I develop Django APIs & React SPAs 💻</h2>
+
+Design. Code. Test. Repeat.
 
 I like project-driven, try to business-driven 💼 and design-first development 🔬.
-I follow project-driven life 🌍 development.
-I consider myself a backend developer though I'm good 🕶  at devops and frontend too
+I follow project-driven life 🌍 development became my lifestyle.
+I consider myself a backend developer though I'm good 🕶  at devops and frontend to.
 I enjoy self-hosting on Raspberry Pi 🍓. 
-I dream to develop shiny ✨ fullstack SaaS app.
+I dream to develop shiny unicorn 🦄 fullstack SaaS app.
 I can do fullstack 🎁 development as well.
 
-I'm doing:
+I am doing: backend development (RESTful application programming web interfaces) & fullstack development (SaaS single-page web applications).
 
-- Backend development: RESTful application programming web interfaces
-- Fullstack development: SaaS single-page web applications
 
 ## ✉️ Find me
 
@@ -27,33 +27,30 @@ Refining projects 🔭
 
 ## 💪 Perks
 
-- 🖼 Frontend:⚡️⚡️
-
 - ⚙️ Backend: ⚡️⚡️⚡️⚡️⚡️⚡️
+
+- 🖼 Fronted:⚡️⚡️⚡️
 
 - 📦 DevOps: ⚡️⚡️⚡️
 
+- 🎨 Design: ⚡️
+
 - 💻 Scripting: ⚡️⚡️
 
-- 🎨 Design: ✕
+- ✍️ Writing: ⚡️
 
 ## 🌟 Technology Stack
 
-The stack is most suitable for creating _medium/large synchronous/asynchronous monolithic RESTful APIs_ for _single-page SaaS applications_ and deployment in the cloud _VPS_.
+The stack is most suitable for creating _medium/large synchronous monolithic RESTful APIs_
+for _single-page SaaS applications_ and deployment in the cloud _VPS_.
 The stack is modern and perfect for this kind of apps.
 
-Frontend (📌 fixed):
-
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
-+
-![CSS3](https://img.shields.io/badge/css-1572B6?logo=css3&style=flat&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-Backend (📌 fixed):
+Backend:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20?style=flat&logo=django&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/openapi-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
 +
 ![SQL](https://img.shields.io/badge/sql-black?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABJElEQVR4nO3TUQ6EMAhFUfe/ZBMzswFjgQIP6GvSPzvDPdbrcl7Pff8it/e82ys6uBwIOhgGgg6DQaBDoBDo4aEI6KGhCOhhoQjoIeEI6AEJQAACYAEmI4jiJ0KowychmIM7Y2i7PiM1z1YKtvQso5aHg2E8/t9teOkwWctt7qy3FB0KA6i+CUAAAhCAAKciiOKnIqjiJ0GYgrtjWNpeI6XPVdgeTZ9hy4OJKDuzuERIBkAsl9mj3kjECpkVdWXLzJL1HaM2AQhAAAIQ4FQEUfxECHX4FIjt2I4YlqZloOVMhTdsuhXeVwpxjbd+L/wbC1iuM2dczYxQKEDlTQACEIAABDgVQRQ/FUEVPw3BFD8FYSu+M4RbeDeIsPCqIOnBq9Ut+A+y/P/Eop5RPwAAAABJRU5ErkJggg==&style=flat&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -61,17 +58,32 @@ Backend (📌 fixed):
 ![Celery](https://img.shields.io/badge/celery-37814A?logo=celery&style=flat&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?logo=redis&style=flat&logoColor=white)
 
-DevOps (📌 fixed):
+Frontend:
 
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-C21325?style=flat&logo=jest&logoColor=white)
+
+DevOps:
+
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&style=flat&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&style=flat&logoColor=white)
 +
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&style=flat&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/raspberry-A22846?logo=raspberrypi&style=flat&logoColor=white)
+/
+![Raspberry Pi](https://img.shields.io/badge/raspberrypi-A22846?logo=raspberrypi&style=flat&logoColor=white)
 +
 ![Actions](https://img.shields.io/badge/actions-100000?style=flat&logo=github&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-362D59?logo=sentry&style=flat&logoColor=white)
+
+Design:
+
+![CSS](https://img.shields.io/badge/css-1572B6?logo=css3&style=flat&logoColor=white)
+![Saas](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
++
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 Scripting:
 
@@ -79,10 +91,11 @@ Scripting:
 
 ## 📝 Resume
 
-If you want you can look at my [resume](https://github.com/Egor4ik325/Egor4ik325/files/7506574/CV.v2.0.pdf).
+If you want you can look at my [resume](Backend Developer CV 3.1.pdf).
 
 ## 📅 Other projects
 
+- Serials and sheets (com): Serial number, barcode printing service
 - [Redirink](https://github.com/Egor4ik325/redirink): URL shortener and redirect web service
 - [deliveryHunt](https://github.com/Egor4ik325/deliveryHunt): Express delivery service
 - [Demanage](https://github.com/Egor4ik325/demanage): Boarding-style project management webapp
@@ -99,10 +112,12 @@ If you want you can look at my [resume](https://github.com/Egor4ik325/Egor4ik325
 
 ## 📊 Stats
 
-[![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egor4ik325&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Egor4ik325&date_format=j%20M%5B%20Y%5D)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor4ik325&exclude_repo=bulwark-sln,bulwark-cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egor4ik325&show_icons=true)
 
-[![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=compact)](https://wakatime.com/@0801e752-de74-44cb-a3ef-c564083431bb)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor4ik325&exclude_repo=bulwark-sln,bulwark-cmake&layout=compact)
 
-[![wakatime](https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg)](https://wakatime.com/Egor4ik325) since Nov 2021
+[![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=compact)](https://wakatime.com/@Egor4ik325)
+
+[![wakatime](https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg)](https://wakatime.com/@Egor4ik325) since Nov 2021
