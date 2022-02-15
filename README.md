@@ -27,6 +27,7 @@ Refining projects 🔭
 
 ## 💪 Perks
 
+
 - ⚙️ Backend: ⚡️⚡️⚡️⚡️⚡️⚡️
 
 - 🖼 Fronted:⚡️⚡️⚡️
@@ -40,6 +41,8 @@ Refining projects 🔭
 - ✍️ Writing: ⚡️
 
 ## 🌟 Technology Stack
+
+<a href="https://codetrace.com/users/Egor4ik325"><img src="https://codetrace.com/widget/Egor4ik325" width="220" height="50" /></a>
 
 The stack is most suitable for creating _medium/large synchronous monolithic RESTful APIs_
 for _single-page SaaS applications_ and deployment in the cloud _VPS_.
@@ -112,12 +115,17 @@ If you want you can look at my [resume](Backend Developer CV 3.1.pdf).
 
 ## 📊 Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Egor4ik325&date_format=j%20M%5B%20Y%5D)]
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Egor4ik325&theme=github) 
 
-![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egor4ik325&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Egor4ik325&date_format=j%20M%5B%20Y%5D)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor4ik325&exclude_repo=bulwark-sln,bulwark-cmake&layout=compact)
+![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egor4ik325&show_icons=true&hide=contribs,prs,stars,commits,issues&custom_title=Rank)
 
-[![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=compact)](https://wakatime.com/@Egor4ik325)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Egor4ik325&theme=github)
+
+![Top Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Egor4ik325&theme=github)
+![GitHub commits per hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Egor4ik325&theme=github)
+
+[![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=default&langs_count=6&last_7_days&custom_title=Wakatime%20last%207%20days)](https://wakatime.com/@Egor4ik325)
 
 [![wakatime](https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg)](https://wakatime.com/@Egor4ik325) since Nov 2021
