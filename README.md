@@ -1,29 +1,23 @@
 <img src="https://user-images.githubusercontent.com/59317431/139434562-c7515ba6-91e9-4255-8c8a-97afa928dc07.png" alt="profile banner" />
 
-<h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Egor</a> 😎</h3>
+<h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Egor</a> 🦜</h3>
 
 <h2 align="center">I develop Django APIs & React SPAs 💻</h2>
 
-Design. Code. Test. Repeat.
-
-I like project-driven, try to business-driven 💼 and design-first development 🔬.
-I follow project-driven life 🌍 development became my lifestyle.
-I consider myself a backend developer though I'm good 🕶  at devops and frontend to.
-I enjoy self-hosting on Raspberry Pi 🍓. 
-I dream to develop shiny unicorn 🦄 fullstack SaaS app.
-I can do fullstack 🎁 development as well.
-
-I am doing: backend development (RESTful application programming web interfaces) & fullstack development (SaaS single-page web applications).
-
+I build either backend or fullstack apps 💼.
+Doing projects is my lifestyle 🌍.
+I have a dream to develop shiny 🦄 fullstack app.
+I use Raspberry Pi 🍓 as a server.
+My personal hobbies 👨‍💻 are webdev, scripting and self-hosting.
 
 ## ✉️ Find me
 
-[![Fiverr](https://img.shields.io/badge/fiverr-00c770?logo=data:image/svg+xml;base64,PHN2ZyBpZD0iU3ZnanNTdmcxMDA2IiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpzdmdqcz0iaHR0cDovL3N2Z2pzLmNvbS9zdmdqcyI+PGRlZnMgaWQ9IlN2Z2pzRGVmczEwMDciPjwvZGVmcz48ZyBpZD0iU3ZnanNHMTAwOCIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI4OCIgaGVpZ2h0PSIyODgiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNDEzLjY5NiwzOTkuNzUxVjE2OS43NUgxODQuMzJ2LTE0LjM3NWMwLTIzLjc3OSwxOS4yOTUtNDMuMTI0LDQzLjAwNC00My4xMjRoNDMuMDA4di04Ni4yNSAgICAgaC00My4wMDhjLTcxLjEzNCwwLTEyOS4wMTksNTguMDQ0LTEyOS4wMTksMTI5LjM3NHYxNC4zNzVINDAuOTYyVjI1Nmg1Ny4zNDJ2MTQzLjc1MUg0MC45NjJ2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEgxODQuMzJWMjU2ICAgICBoMTQ0LjE1N3YxNDMuNzUxaC01OC4xNDV2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEg0MTMuNjk2eiIgY2xhc3M9ImNvbG9yMWRiZjczIHN2Z1NoYXBlIj48L3BhdGg+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTM3MC42ODUsMTEyLjI1MWMyMy43NTEsMCw0My4wMTItMTkuMzA2LDQzLjAxMi00My4xMjVjMC0yMy44MjEtMTkuMjYxLTQzLjEyNS00My4wMTItNDMuMTI0ICAgICBjLTIzLjc0OSwwLTQzLjAwNSwxOS4zMDMtNDMuMDA1LDQzLjEyNEMzMjcuNjgsOTIuOTQ1LDM0Ni45MzYsMTEyLjI1MSwzNzAuNjg1LDExMi4yNTF6IiBjbGFzcz0iY29sb3IxZGJmNzMgc3ZnU2hhcGUiPjwvcGF0aD48L3N2Zz48L2c+PC9zdmc+&style=for-the-badge&logoColor=white)](https://www.fiverr.com/nezort11)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nezort11/)
+[![Fiverr](https://img.shields.io/badge/fiverr-00c770?logo=data:image/svg+xml;base64,PHN2ZyBpZD0iU3ZnanNTdmcxMDA2IiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpzdmdqcz0iaHR0cDovL3N2Z2pzLmNvbS9zdmdqcyI+PGRlZnMgaWQ9IlN2Z2pzRGVmczEwMDciPjwvZGVmcz48ZyBpZD0iU3ZnanNHMTAwOCIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI4OCIgaGVpZ2h0PSIyODgiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNDEzLjY5NiwzOTkuNzUxVjE2OS43NUgxODQuMzJ2LTE0LjM3NWMwLTIzLjc3OSwxOS4yOTUtNDMuMTI0LDQzLjAwNC00My4xMjRoNDMuMDA4di04Ni4yNSAgICAgaC00My4wMDhjLTcxLjEzNCwwLTEyOS4wMTksNTguMDQ0LTEyOS4wMTksMTI5LjM3NHYxNC4zNzVINDAuOTYyVjI1Nmg1Ny4zNDJ2MTQzLjc1MUg0MC45NjJ2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEgxODQuMzJWMjU2ICAgICBoMTQ0LjE1N3YxNDMuNzUxaC01OC4xNDV2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEg0MTMuNjk2eiIgY2xhc3M9ImNvbG9yMWRiZjczIHN2Z1NoYXBlIj48L3BhdGg+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTM3MC42ODUsMTEyLjI1MWMyMy43NTEsMCw0My4wMTItMTkuMzA2LDQzLjAxMi00My4xMjVjMC0yMy44MjEtMTkuMjYxLTQzLjEyNS00My4wMTItNDMuMTI0ICAgICBjLTIzLjc0OSwwLTQzLjAwNSwxOS4zMDMtNDMuMDA1LDQzLjEyNEMzMjcuNjgsOTIuOTQ1LDM0Ni45MzYsMTEyLjI1MSwzNzAuNjg1LDExMi4yNTF6IiBjbGFzcz0iY29sb3IxZGJmNzMgc3ZnU2hhcGUiPjwvcGF0aD48L3N2Zz48L2c+PC9zdmc+&style=for-the-badge&logoColor=white)](https://www.fiverr.com/nezort11)
 
 ## 🛠 Current project
 
-Refining projects 🔭
+Freelancing and doing small projects 🔭
 
 ## 💪 Perks
 
@@ -34,19 +28,21 @@ Refining projects 🔭
 
 - 📦 DevOps: ⚡️⚡️⚡️
 
-- 🎨 Design: ⚡️
+- 🎨 Design: ⚡️⚡️
 
-- 💻 Scripting: ⚡️⚡️
+- 🐍 Scripting: ⚡️⚡️
 
 - ✍️ Writing: ⚡️
 
 ## 🌟 Technology Stack
 
-<a href="https://codetrace.com/users/Egor4ik325"><img src="https://codetrace.com/widget/Egor4ik325" width="220" height="50" /></a>
+<a href="https://codetrace.com/users/Egor4ik325"><img src="https://codetrace.com/widget/Egor4ik325" width="255" height="58" alt="codetrace profile" title="CodeTrace profile" /></a>
+<a href="https://stackoverflow.com/users/13774599/egor4ik325"><img src="https://stackoverflow.com/users/flair/13774599.png" width="208" height="58" alt="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers" title="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers"></a>
 
-The stack is most suitable for creating _medium/large synchronous monolithic RESTful APIs_
-for _single-page SaaS applications_ and deployment in the cloud _VPS_.
-The stack is modern and perfect for this kind of apps.
+The stack is most suitable for creating _medium/large synchronous monolithic RESTful APIs_ 🔌
+for _single-page SaaS applications_ 📄 and deployment in the cloud _VPS_ ☁️.
+The stack is modern and perfect ✨ for such apps.
+
 
 Backend:
 
@@ -98,6 +94,7 @@ If you want you can look at my [resume](Backend Developer CV 3.1.pdf).
 
 ## 📅 Other projects
 
+- [Filehole](https://github.com/Egor4ik325/filehole) (pers): LAN file sharing made fast
 - Serials and sheets (com): Serial number, barcode printing service
 - [Redirink](https://github.com/Egor4ik325/redirink): URL shortener and redirect web service
 - [deliveryHunt](https://github.com/Egor4ik325/deliveryHunt): Express delivery service
@@ -118,8 +115,6 @@ If you want you can look at my [resume](Backend Developer CV 3.1.pdf).
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Egor4ik325&theme=github) 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Egor4ik325&date_format=j%20M%5B%20Y%5D)
-
-![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egor4ik325&show_icons=true&hide=contribs,prs,stars,commits,issues&custom_title=Rank)
 
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Egor4ik325&theme=github)
 
