@@ -4,15 +4,17 @@
 
 <h2 align="center">I develop Django APIs & React SPAs 💻</h2>
 
-I build either backend or fullstack apps 💼.
-Doing projects is my lifestyle 🌍.
-I have a dream to develop shiny 🦄 fullstack app.
-I use Raspberry Pi 🍓 as a server.
-My personal hobbies 👨‍💻 are webdev, scripting and self-hosting.
+- 💼 I build either backend or fullstack apps.
+- 🌍 Doing projects is my lifestyle.
+- 🦄 I have a dream to develop shiny  fullstack app.
+- 🍓 I use Raspberry Pi  as a server.
+- 👨‍💻 My personal hobbies are webdev, scripting and self-hosting.
+- 📫 Reach me via [email](mailto:nezort11@gmail.com).
 
 ## ✉️ Find me
 
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nezort11/)
+[![HH](https://img.shields.io/badge/headhunter-d50000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNCA0OGMxMy4yNTUgMCAyNC0xMC43NDUgMjQtMjRTMzcuMjU1IDAgMjQgMCAwIDEwLjc0NSAwIDI0czEwLjc0NSAyNCAyNCAyNCIgZmlsbD0iI0Q2MDAxQyIvPjxwYXRoIGQ9Ik0xMy42NSAxMy4xNjl2OC4xNjRjMS4yNDMtMS40ODIgMi43MzMtMi4yMjggNC40NjEtMi4yMjguODkgMCAxLjY4Ny4xNyAyLjQwMi41MDcuNzE3LjMzNSAxLjI1My43NjUgMS42MTUgMS4yODcuMzY0LjUyNy42MSAxLjEwNC43NDMgMS43NC4xMzIuNjMzLjE5OCAxLjYxOC4xOTggMi45NTR2OC43MjloLTMuODYyVjI2LjQ2YzAtMS41Ni0uMDctMi41NDgtLjIxNy0yLjk2OGExLjkxNyAxLjkxNyAwIDAgMC0uNzc1LTFjLS4zNzItLjI1MS0uODM1LS4zNzUtMS4zOTQtLjM3NS0uNjQgMC0xLjIxNC4xNi0xLjcxMy40NzgtLjUxLjMyLS44NzYuNzk4LTEuMTA4IDEuNDM3LS4yMzYuNjQtLjM1NCAxLjU4NS0uMzUgMi44MzZsLS4wMDQgNy40NTRIOS43ODlWMTMuMTY5aDMuODYybTE1LjIwNiAwdjguMTY0YzEuMjQ0LTEuNDgyIDIuNzMzLTIuMjI4IDQuNDYtMi4yMjguODg3IDAgMS42OS4xNyAyLjQwNi41MDcuNzE0LjMzNSAxLjI1Ljc2NSAxLjYxIDEuMjg3YTQuNjkgNC42OSAwIDAgMSAuNzQzIDEuNzRjLjEzMy42MzMuMTk5IDEuNjE4LjE5OSAyLjk1NHY4LjcyOWgtMy44NThWMjYuNDZjMC0xLjU2LS4wNzMtMi41NDgtLjIyLTIuOTY4YTEuOTEgMS45MSAwIDAgMC0uNzc3LTFjLS4zNjgtLjI1MS0uODM1LS4zNzUtMS4zOTQtLjM3NS0uNjM5IDAtMS4yMTMuMTYtMS43MTMuNDc4LS41MDMuMzItLjg3MS43OTgtMS4xMDYgMS40MzctLjIzMi42NC0uMzUgMS41ODUtLjM1IDIuODM2djcuNDU0SDI1VjEzLjE2OWgzLjg1NyIgZmlsbD0iI0ZFRkVGRSIvPjwvc3ZnPg==&logoColor=white)](https://spb.hh.ru/resume/7de60396ff099911fa0039ed1f306663386f35)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nezort11/)
 [![Fiverr](https://img.shields.io/badge/fiverr-00c770?logo=data:image/svg+xml;base64,PHN2ZyBpZD0iU3ZnanNTdmcxMDA2IiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpzdmdqcz0iaHR0cDovL3N2Z2pzLmNvbS9zdmdqcyI+PGRlZnMgaWQ9IlN2Z2pzRGVmczEwMDciPjwvZGVmcz48ZyBpZD0iU3ZnanNHMTAwOCIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI4OCIgaGVpZ2h0PSIyODgiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNDEzLjY5NiwzOTkuNzUxVjE2OS43NUgxODQuMzJ2LTE0LjM3NWMwLTIzLjc3OSwxOS4yOTUtNDMuMTI0LDQzLjAwNC00My4xMjRoNDMuMDA4di04Ni4yNSAgICAgaC00My4wMDhjLTcxLjEzNCwwLTEyOS4wMTksNTguMDQ0LTEyOS4wMTksMTI5LjM3NHYxNC4zNzVINDAuOTYyVjI1Nmg1Ny4zNDJ2MTQzLjc1MUg0MC45NjJ2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEgxODQuMzJWMjU2ICAgICBoMTQ0LjE1N3YxNDMuNzUxaC01OC4xNDV2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEg0MTMuNjk2eiIgY2xhc3M9ImNvbG9yMWRiZjczIHN2Z1NoYXBlIj48L3BhdGg+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTM3MC42ODUsMTEyLjI1MWMyMy43NTEsMCw0My4wMTItMTkuMzA2LDQzLjAxMi00My4xMjVjMC0yMy44MjEtMTkuMjYxLTQzLjEyNS00My4wMTItNDMuMTI0ICAgICBjLTIzLjc0OSwwLTQzLjAwNSwxOS4zMDMtNDMuMDA1LDQzLjEyNEMzMjcuNjgsOTIuOTQ1LDM0Ni45MzYsMTEyLjI1MSwzNzAuNjg1LDExMi4yNTF6IiBjbGFzcz0iY29sb3IxZGJmNzMgc3ZnU2hhcGUiPjwvcGF0aD48L3N2Zz48L2c+PC9zdmc+&style=for-the-badge&logoColor=white)](https://www.fiverr.com/nezort11)
 
 ## 🛠 Current project
@@ -112,15 +114,28 @@ If you want you can look at my [resume](Backend Developer CV 3.1.pdf).
 
 ## 📊 Stats
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Egor4ik325&theme=github) 
+![GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Egor4ik325&theme=solarized) 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Egor4ik325&date_format=j%20M%5B%20Y%5D)
+<img alt="GitHub Streak" width="690px" src="https://github-readme-streak-stats.herokuapp.com?user=Egor4ik325&date_format=j%20M%5B%20Y%5D&theme=solarized-light&hide_border=true" />
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Egor4ik325&theme=github)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Egor4ik325&theme=solarized)
+![Languages by commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Egor4ik325&theme=solarized)
 
-![Top Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Egor4ik325&theme=github)
-![GitHub commits per hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Egor4ik325&theme=github)
+![GitHub commits per hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Egor4ik325&theme=solarized)
+![Languages by repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Egor4ik325&theme=solarized) 
 
-[![Egor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=default&langs_count=6&last_7_days&custom_title=Wakatime%20last%207%20days)](https://wakatime.com/@Egor4ik325)
+[<img alt="Egor's wakatime stats" width="690px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=default&langs_count=6&last_7_days&custom_title=Wakatime%20last%207%20days&theme=solarized-light&border_color=00000000" />](https://wakatime.com/@Egor4ik325)
 
-[![wakatime](https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg)](https://wakatime.com/@Egor4ik325) since Nov 2021
+<table>
+  <tr>
+    <td>
+       <a href="https://wakatime.com/@Egor4ik325"><img alt="Wakatime" height="25px" src="https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg" /></a>
+    </td>
+    <td valign="top">
+      since Nov 2021
+    </td>
+  </tr>
+</table>
+
+<!-- https://platane.github.io/snk/ -->
+![Contributions snake status](./img/github-contributions-snake.svg)
