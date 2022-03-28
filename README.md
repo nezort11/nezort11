@@ -5,10 +5,15 @@
 <h2 align="center">I develop Django APIs & React SPAs 💻</h2>
 
 - 💼 I build either backend or fullstack apps.
+
 - 🌍 Doing projects is my lifestyle.
+
 - 🦄 I have a dream to develop shiny  fullstack app.
+
 - 🍓 I use Raspberry Pi  as a server.
+
 - 👨‍💻 My personal hobbies are webdev, scripting and self-hosting.
+
 - 📫 Reach me via [email](mailto:nezort11@gmail.com).
 
 ## ✉️ Find me
@@ -22,7 +27,6 @@
 Freelancing and doing small projects 🔭
 
 ## 💪 Perks
-
 
 - ⚙️ Backend: ⚡️⚡️⚡️⚡️⚡️⚡️
 
@@ -44,7 +48,6 @@ Freelancing and doing small projects 🔭
 The stack is most suitable for creating _medium/large synchronous monolithic RESTful APIs_ 🔌
 for _single-page SaaS applications_ 📄 and deployment in the cloud _VPS_ ☁️.
 The stack is modern and perfect ✨ for such apps.
-
 
 Backend:
 
@@ -96,7 +99,7 @@ If you want you can look at my [resume](Backend Developer CV 3.1.pdf).
 
 ## 📅 Other projects
 
-- [Filehole](https://github.com/Egor4ik325/filehole) (pers): LAN file sharing made fast
+- [Filehole](https://github.com/Egor4ik325/filehole) (personal): LAN file sharing made fast
 - Serials and sheets (com): Serial number, barcode printing service
 - [Redirink](https://github.com/Egor4ik325/redirink): URL shortener and redirect web service
 - [deliveryHunt](https://github.com/Egor4ik325/deliveryHunt): Express delivery service
@@ -116,13 +119,13 @@ If you want you can look at my [resume](Backend Developer CV 3.1.pdf).
 
 ![GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Egor4ik325&theme=solarized) 
 
-<img alt="GitHub Streak" width="690px" src="https://github-readme-streak-stats.herokuapp.com?user=Egor4ik325&date_format=j%20M%5B%20Y%5D&theme=solarized-light&hide_border=true" />
-
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Egor4ik325&theme=solarized)
 ![Languages by commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Egor4ik325&theme=solarized)
 
 ![GitHub commits per hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Egor4ik325&theme=solarized)
 ![Languages by repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Egor4ik325&theme=solarized) 
+
+<img alt="GitHub Streak" width="690px" src="https://github-readme-streak-stats.herokuapp.com?user=Egor4ik325&date_format=j%20M%5B%20Y%5D&theme=solarized-light&hide_border=true" />
 
 [<img alt="Egor's wakatime stats" width="690px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Egor4ik325&layout=default&langs_count=6&last_7_days&custom_title=Wakatime%20last%207%20days&theme=solarized-light&border_color=00000000" />](https://wakatime.com/@Egor4ik325)
 
@@ -137,5 +140,15 @@ If you want you can look at my [resume](Backend Developer CV 3.1.pdf).
   </tr>
 </table>
 
+<img alt="Wakatime activity last 7 days" width="690px" src="https://wakatime.com/share/@Egor4ik325/d6529fbf-74b4-4755-94a8-5a35ddc17339.svg" />
+<img alt="Wakatime languages last 7 days" width="690px" src="https://wakatime.com/share/@Egor4ik325/a17f9b8d-2ea4-4195-b58c-df5b765a8064.svg" />
+
+<img alt="Wakatime activity last 30 days" width="690px" src="https://wakatime.com/share/@Egor4ik325/8d6ab75f-3456-4ff2-9603-d51bb1855a69.svg" />
+<img alt="Wakatime languages last 30 days" width="690px" src="https://wakatime.com/share/@Egor4ik325/aa7340ea-29a9-42d4-8501-6ed7c5b18bc9.svg" />
+
+<img alt="Wakatime activity all time" width="690px" src="https://wakatime.com/share/@Egor4ik325/c83dfe32-f194-4d46-9f38-d4ad55980b17.svg" />
+<img alt="Wakatime languages all time" width="690px" src="https://wakatime.com/share/@Egor4ik325/4c5d49b0-10bc-47ad-af1c-11d3c8272b80.svg" />
+
 <!-- https://platane.github.io/snk/ -->
-![Contributions snake status](./img/github-contributions-snake.svg)
+
+![Contributions snake status](./img/github-user-contribution.svg)
