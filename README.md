@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/59317431/165397686-feda99f1-d983-433d-b99c-2a403cc36980.png" alt="profile banner" />
 
-<h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Egor</a> 🦜</h3>
+<h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Yegor</a> 🦜</h3>
 
 <h2 align="center">I develop Django/React stuff 💻</h2>
 
@@ -24,10 +24,11 @@
 
 ## 👋💼 Me
 
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nezort11)
+> [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nezort11)
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nezort11)
 [![TenChat](https://img.shields.io/badge/tenchat-fc3234?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white)](https://tenchat.ru/nezort11)
 [![HeadHunter](https://img.shields.io/badge/headhunter-d50000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNCA0OGMxMy4yNTUgMCAyNC0xMC43NDUgMjQtMjRTMzcuMjU1IDAgMjQgMCAwIDEwLjc0NSAwIDI0czEwLjc0NSAyNCAyNCAyNCIgZmlsbD0iI0Q2MDAxQyIvPjxwYXRoIGQ9Ik0xMy42NSAxMy4xNjl2OC4xNjRjMS4yNDMtMS40ODIgMi43MzMtMi4yMjggNC40NjEtMi4yMjguODkgMCAxLjY4Ny4xNyAyLjQwMi41MDcuNzE3LjMzNSAxLjI1My43NjUgMS42MTUgMS4yODcuMzY0LjUyNy42MSAxLjEwNC43NDMgMS43NC4xMzIuNjMzLjE5OCAxLjYxOC4xOTggMi45NTR2OC43MjloLTMuODYyVjI2LjQ2YzAtMS41Ni0uMDctMi41NDgtLjIxNy0yLjk2OGExLjkxNyAxLjkxNyAwIDAgMC0uNzc1LTFjLS4zNzItLjI1MS0uODM1LS4zNzUtMS4zOTQtLjM3NS0uNjQgMC0xLjIxNC4xNi0xLjcxMy40NzgtLjUxLjMyLS44NzYuNzk4LTEuMTA4IDEuNDM3LS4yMzYuNjQtLjM1NCAxLjU4NS0uMzUgMi44MzZsLS4wMDQgNy40NTRIOS43ODlWMTMuMTY5aDMuODYybTE1LjIwNiAwdjguMTY0YzEuMjQ0LTEuNDgyIDIuNzMzLTIuMjI4IDQuNDYtMi4yMjguODg3IDAgMS42OS4xNyAyLjQwNi41MDcuNzE0LjMzNSAxLjI1Ljc2NSAxLjYxIDEuMjg3YTQuNjkgNC42OSAwIDAgMSAuNzQzIDEuNzRjLjEzMy42MzMuMTk5IDEuNjE4LjE5OSAyLjk1NHY4LjcyOWgtMy44NThWMjYuNDZjMC0xLjU2LS4wNzMtMi41NDgtLjIyLTIuOTY4YTEuOTEgMS45MSAwIDAgMC0uNzc3LTFjLS4zNjgtLjI1MS0uODM1LS4zNzUtMS4zOTQtLjM3NS0uNjM5IDAtMS4yMTMuMTYtMS43MTMuNDc4LS41MDMuMzItLjg3MS43OTgtMS4xMDYgMS40MzctLjIzMi42NC0uMzUgMS41ODUtLjM1IDIuODM2djcuNDU0SDI1VjEzLjE2OWgzLjg1NyIgZmlsbD0iI0ZFRkVGRSIvPjwvc3ZnPg==&logoColor=white)](https://spb.hh.ru/resume/7de60396ff099911fa0039ed1f306663386f35)
+|
 [![Channel](https://img.shields.io/badge/channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/egorindev)
 [![VK](https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/nezort11)
 
@@ -42,13 +43,13 @@ Freelancing and doing hobby projects 🔭
 
 - ⚙️ **Backend**
 
-  - <ins>API</ins> (*REST*): ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
+  - > API (*REST*): ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
 
   - MVT: ⚡️
 
 - 🖼 **Frontend**
   
-  - <ins>Web apps</ins> (*SPA/SSR*): ⚡️⚡️⚡️⚡️⚡️⚡️
+  - > Web apps (*SPA/SSR*): ⚡️⚡️⚡️⚡️⚡️⚡️
   
   - Mini apps (*VK*): ⚡️
   
@@ -84,60 +85,66 @@ The stack is modern and perfect ✨ for such apps.
 
 [**Backend**](https://github.com/stars/nezort11/lists/backend-stack):
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
+> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20?style=flat&logo=django&logoColor=white)
-|
 ![Django REST Framework](https://img.shields.io/badge/restframework-a30000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAZElEQVRYhe3TwQkAMAhDUfdfuj312GLEqIVkgf9ANPtx67K2cAnEG6chWgFoPB0hgAARRGp8BABBUOJeBDX+gpSFtbMxtx/1AVSEN05DtALQeDpCAAEiiNT4CACCoMQ9EHqYsQ0Nh9tdd7/PJgAAAABJRU5ErkJggg==&style=flat&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/openapi-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 |
-![SQL](https://img.shields.io/badge/sql-black?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABJElEQVR4nO3TUQ6EMAhFUfe/ZBMzswFjgQIP6GvSPzvDPdbrcl7Pff8it/e82ys6uBwIOhgGgg6DQaBDoBDo4aEI6KGhCOhhoQjoIeEI6AEJQAACYAEmI4jiJ0KowychmIM7Y2i7PiM1z1YKtvQso5aHg2E8/t9teOkwWctt7qy3FB0KA6i+CUAAAhCAAKciiOKnIqjiJ0GYgrtjWNpeI6XPVdgeTZ9hy4OJKDuzuERIBkAsl9mj3kjECpkVdWXLzJL1HaM2AQhAAAIQ4FQEUfxECHX4FIjt2I4YlqZloOVMhTdsuhXeVwpxjbd+L/wbC1iuM2dczYxQKEDlTQACEIAABDgVQRQ/FUEVPw3BFD8FYSu+M4RbeDeIsPCqIOnBq9Ut+A+y/P/Eop5RPwAAAABJRU5ErkJggg==&style=flat&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+
+
+![SQL](https://img.shields.io/badge/sql-black?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABJElEQVR4nO3TUQ6EMAhFUfe/ZBMzswFjgQIP6GvSPzvDPdbrcl7Pff8it/e82ys6uBwIOhgGgg6DQaBDoBDo4aEI6KGhCOhhoQjoIeEI6AEJQAACYAEmI4jiJ0KowychmIM7Y2i7PiM1z1YKtvQso5aHg2E8/t9teOkwWctt7qy3FB0KA6i+CUAAAhCAAKciiOKnIqjiJ0GYgrtjWNpeI6XPVdgeTZ9hy4OJKDuzuERIBkAsl9mj3kjECpkVdWXLzJL1HaM2AQhAAAIQ4FQEUfxECHX4FIjt2I4YlqZloOVMhTdsuhXeVwpxjbd+L/wbC1iuM2dczYxQKEDlTQACEIAABDgVQRQ/FUEVPw3BFD8FYSu+M4RbeDeIsPCqIOnBq9Ut+A+y/P/Eop5RPwAAAABJRU5ErkJggg==&style=flat&logoColor=white)
 |
 ![Celery](https://img.shields.io/badge/celery-37814A?logo=celery&style=flat&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?logo=redis&style=flat&logoColor=white)
 
 [**Frontend**](https://github.com/stars/nezort11/lists/frontend-stack):
 
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript)
+> ![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react)
-![React](https://img.shields.io/badge/router-20232A?style=flat&logo=react)
+![React Router](https://img.shields.io/badge/router-20232A?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=flat&logo=jest)
 |
 ![Next](https://img.shields.io/badge/next-000000?style=flat&logo=next.js&logoColor=white)
-|
+
+
 ![VK Bridge](https://img.shields.io/badge/bridge-0077FF?style=flat&logo=vk&logoColor=white)
 |
-![React](https://img.shields.io/badge/native-20232A?style=flat&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/native-20232A?style=flat&logo=react)
 ![Expo](https://img.shields.io/badge/expo-000020?style=flat&logo=expo&logoColor=white)
 
 [**Markup**](https://github.com/stars/nezort11/lists/design-stack):
 
-![HTML](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white)
+> ![HTML](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?logo=css3&style=flat&logoColor=white)
 ![Saas](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
+BEM
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/bootstrap-20232A?style=flat&logo=react)
+![React Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=flat&logo=react)
 ![FontAwesome](https://img.shields.io/badge/fontawesome-528DD7?style=flat&logo=fontawesome&logoColor=white)
-|
+
+
 ![VK UI](https://img.shields.io/badge/ui-0077FF?style=flat&logo=vk&logoColor=white)
 ![VK Icons](https://img.shields.io/badge/icons-0077FF?style=flat&logo=vk&logoColor=white)
 
 [**Devops**](https://github.com/stars/nezort11/lists/devops-stack):
 
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&style=flat&logoColor=white)
+> ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&style=flat&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&style=flat&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-499848?logo=gunicorn&style=flat&logoColor=white)
 |
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Yandex Cloud](https://img.shields.io/badge/yandexcloud-5282ff?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAS0lEQVQ4jb2RMRIAIAjD+P+ndXOxQKqenZtw1giRkUR1EYhEFJYSF94kVwJ0oThkLY4Fzi/9E+iHQkEGr25VaOEnghMJXhnDaHGRCfIwxVcyn6/VAAAAAElFTkSuQmCC&style=flat&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/pi-A22846?logo=raspberrypi&style=flat&logoColor=white) 
 |
 ![Let's Encrypt](https://img.shields.io/badge/letsencrypt-003A70?logo=letsencrypt&style=flat&logoColor=white)
 ![Actions](https://img.shields.io/badge/actions-100000?style=flat&logo=github&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-362D59?logo=sentry&style=flat&logoColor=white)
+
+
+![Yandex Cloud](https://img.shields.io/badge/yandexcloud-5282ff?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAS0lEQVQ4jb2RMRIAIAjD+P+ndXOxQKqenZtw1giRkUR1EYhEFJYSF94kVwJ0oThkLY4Fzi/9E+iHQkEGr25VaOEnghMJXhnDaHGRCfIwxVcyn6/VAAAAAElFTkSuQmCC&style=flat&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/pi-A22846?logo=raspberrypi&style=flat&logoColor=white) 
 ![Yandex Metrika](https://img.shields.io/badge/metrika-ff0000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAHklEQVQ4jWNgGDLgPxYwnA3Apng4G0Cs4uFswIADAM8w3jD1u2ZEAAAAAElFTkSuQmCC&style=flat&logoColor=white)
 
 UI/UX:
@@ -180,10 +187,13 @@ If you want you can look at my job [resume](https://www.dropbox.com/home?preview
 - [cookiecutter-django-api](https://github.com/nezort11/cookiecutter-django-api): Cookiecutter for creating Django backend API service
 - [cookiecutter-react-app](https://github.com/nezort11/cookiecutter-react-app): Cookiecutter for creating React single-page web apps
 - [django-rest-knox-allauth](https://github.com/nezort11/django-rest-knox-allauth): Django endpoints integration for [django-allauth](https://github.com/pennersr/django-allauth) + [django-rest-knox](https://github.com/James1345/django-rest-knox)
+- [dotfiles](https://github.com/nezort11/dotfiles): Amazing configuration, setting and code snippet files for productivity
 
 🐶 Pet projects:
 
+- [olgaz.ru](https://github.com/nezort11/olgaz.ru): Landing static site built with Next.js
 - [Filehole](https://github.com/nezort11/filehole): LAN file sharing made fast
+- [RSS Notifier](https://github.com/nezort11/rss-notifier): Telegram notifier about Upwork RSS feed
 - [Redirink](https://github.com/nezort11/redirink): URL shortener and redirect web service
 - [deliveryHunt](https://github.com/nezort11/deliveryHunt): Express delivery service
 - [Demanage](https://github.com/nezort11/demanage): Boarding-style project management webapp
@@ -192,11 +202,11 @@ If you want you can look at my job [resume](https://www.dropbox.com/home?preview
 - [Anyberry](https://github.com/nezort11/anyberry): E-commerce website for buying virtual berries
 - [Converic](https://github.com/nezort11/converic): Online image format converter
 - [Auction](https://github.com/nezort11/auction-commerce): Auction e-commerce platform for selling goods
-- [Social network](https://github.com/nezort11/network): Social networking website for making posts
+- [Social Network](https://github.com/nezort11/network): Social networking website for making posts
 - [Mail](https://github.com/nezort11/django-mail): Send mail over HTTP to the other users
 - [Wikipedia](https://github.com/nezort11/encyclopedia): Server-side rendered wiki pages
-- [Weight tracker](https://github.com/nezort11/weight-tracker): Manage your weight by making food records
-- [Learning log](https://github.com/nezort11/django-learning-logs): Blog webapp for keeping track of learnt stuff
+- [Weight Tracker](https://github.com/nezort11/weight-tracker): Manage your weight by making food records
+- [Learning Log](https://github.com/nezort11/django-learning-logs): Blog webapp for keeping track of learnt stuff
 
 ## 🗒️ Recent notes
 
