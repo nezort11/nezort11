@@ -1,18 +1,18 @@
 <img src="https://user-images.githubusercontent.com/59317431/165397686-feda99f1-d983-433d-b99c-2a403cc36980.png" alt="profile banner" />
 
-<h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Yegor</a> 🦜</h3>
+<h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Egor</a> 🦜</h3>
 
 <h2 align="center">I develop Django/React stuff 💻</h2>
 
 - 💼 I work at backend and fullstack.
 
-- 👨‍💻 I am a **software developer** (fullstack/web2).
+- 👨‍💻 I am a software developer.
 
 - 🦄 I have a dream to develop shiny fullstack app.
 
 - 🍓 I use Raspberry Pi as a server.
 
-- 🌍 Doing projects is my [life](https://github.com/users/nezort11/projects/2)style.
+<!--- 🌍 Doing projects is my [life](https://github.com/users/nezort11/projects/2)style.-->
 
 - 🖤 My personal hobbies include webdev, self-hosting, scripting and blogging.
 
@@ -20,15 +20,16 @@
 
 - 📫 Reach me via [email](mailto:nezort11@gmail.com) or [telegram](https://t.me/nezort11).
 
-- ❌ I'm not ~~CMS/system/DS/ML/AI/gamedev/VR/AR/IoT/web3/hacking/engineer/scientist/businessman~~.
+<!--- ❌ I'm not ~~CMS|system|DS/ML/AI|gamedev/VR/AR|IoT|blockchain/web3/DeFi/fintech|hacking|engineer/scientist/businessman~~.-->
 
 ## 👋💼 Me
 
-> [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nezort11)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nezort11)
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nezort11)
+
 [![TenChat](https://img.shields.io/badge/tenchat-fc3234?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white)](https://tenchat.ru/nezort11)
-[![HeadHunter](https://img.shields.io/badge/headhunter-d50000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNCA0OGMxMy4yNTUgMCAyNC0xMC43NDUgMjQtMjRTMzcuMjU1IDAgMjQgMCAwIDEwLjc0NSAwIDI0czEwLjc0NSAyNCAyNCAyNCIgZmlsbD0iI0Q2MDAxQyIvPjxwYXRoIGQ9Ik0xMy42NSAxMy4xNjl2OC4xNjRjMS4yNDMtMS40ODIgMi43MzMtMi4yMjggNC40NjEtMi4yMjguODkgMCAxLjY4Ny4xNyAyLjQwMi41MDcuNzE3LjMzNSAxLjI1My43NjUgMS42MTUgMS4yODcuMzY0LjUyNy42MSAxLjEwNC43NDMgMS43NC4xMzIuNjMzLjE5OCAxLjYxOC4xOTggMi45NTR2OC43MjloLTMuODYyVjI2LjQ2YzAtMS41Ni0uMDctMi41NDgtLjIxNy0yLjk2OGExLjkxNyAxLjkxNyAwIDAgMC0uNzc1LTFjLS4zNzItLjI1MS0uODM1LS4zNzUtMS4zOTQtLjM3NS0uNjQgMC0xLjIxNC4xNi0xLjcxMy40NzgtLjUxLjMyLS44NzYuNzk4LTEuMTA4IDEuNDM3LS4yMzYuNjQtLjM1NCAxLjU4NS0uMzUgMi44MzZsLS4wMDQgNy40NTRIOS43ODlWMTMuMTY5aDMuODYybTE1LjIwNiAwdjguMTY0YzEuMjQ0LTEuNDgyIDIuNzMzLTIuMjI4IDQuNDYtMi4yMjguODg3IDAgMS42OS4xNyAyLjQwNi41MDcuNzE0LjMzNSAxLjI1Ljc2NSAxLjYxIDEuMjg3YTQuNjkgNC42OSAwIDAgMSAuNzQzIDEuNzRjLjEzMy42MzMuMTk5IDEuNjE4LjE5OSAyLjk1NHY4LjcyOWgtMy44NThWMjYuNDZjMC0xLjU2LS4wNzMtMi41NDgtLjIyLTIuOTY4YTEuOTEgMS45MSAwIDAgMC0uNzc3LTFjLS4zNjgtLjI1MS0uODM1LS4zNzUtMS4zOTQtLjM3NS0uNjM5IDAtMS4yMTMuMTYtMS43MTMuNDc4LS41MDMuMzItLjg3MS43OTgtMS4xMDYgMS40MzctLjIzMi42NC0uMzUgMS41ODUtLjM1IDIuODM2djcuNDU0SDI1VjEzLjE2OWgzLjg1NyIgZmlsbD0iI0ZFRkVGRSIvPjwvc3ZnPg==&logoColor=white)](https://spb.hh.ru/resume/7de60396ff099911fa0039ed1f306663386f35)
-|
+[![HeadHunter](https://img.shields.io/badge/hh-d50000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNCA0OGMxMy4yNTUgMCAyNC0xMC43NDUgMjQtMjRTMzcuMjU1IDAgMjQgMCAwIDEwLjc0NSAwIDI0czEwLjc0NSAyNCAyNCAyNCIgZmlsbD0iI0Q2MDAxQyIvPjxwYXRoIGQ9Ik0xMy42NSAxMy4xNjl2OC4xNjRjMS4yNDMtMS40ODIgMi43MzMtMi4yMjggNC40NjEtMi4yMjguODkgMCAxLjY4Ny4xNyAyLjQwMi41MDcuNzE3LjMzNSAxLjI1My43NjUgMS42MTUgMS4yODcuMzY0LjUyNy42MSAxLjEwNC43NDMgMS43NC4xMzIuNjMzLjE5OCAxLjYxOC4xOTggMi45NTR2OC43MjloLTMuODYyVjI2LjQ2YzAtMS41Ni0uMDctMi41NDgtLjIxNy0yLjk2OGExLjkxNyAxLjkxNyAwIDAgMC0uNzc1LTFjLS4zNzItLjI1MS0uODM1LS4zNzUtMS4zOTQtLjM3NS0uNjQgMC0xLjIxNC4xNi0xLjcxMy40NzgtLjUxLjMyLS44NzYuNzk4LTEuMTA4IDEuNDM3LS4yMzYuNjQtLjM1NCAxLjU4NS0uMzUgMi44MzZsLS4wMDQgNy40NTRIOS43ODlWMTMuMTY5aDMuODYybTE1LjIwNiAwdjguMTY0YzEuMjQ0LTEuNDgyIDIuNzMzLTIuMjI4IDQuNDYtMi4yMjguODg3IDAgMS42OS4xNyAyLjQwNi41MDcuNzE0LjMzNSAxLjI1Ljc2NSAxLjYxIDEuMjg3YTQuNjkgNC42OSAwIDAgMSAuNzQzIDEuNzRjLjEzMy42MzMuMTk5IDEuNjE4LjE5OSAyLjk1NHY4LjcyOWgtMy44NThWMjYuNDZjMC0xLjU2LS4wNzMtMi41NDgtLjIyLTIuOTY4YTEuOTEgMS45MSAwIDAgMC0uNzc3LTFjLS4zNjgtLjI1MS0uODM1LS4zNzUtMS4zOTQtLjM3NS0uNjM5IDAtMS4yMTMuMTYtMS43MTMuNDc4LS41MDMuMzItLjg3MS43OTgtMS4xMDYgMS40MzctLjIzMi42NC0uMzUgMS41ODUtLjM1IDIuODM2djcuNDU0SDI1VjEzLjE2OWgzLjg1NyIgZmlsbD0iI0ZFRkVGRSIvPjwvc3ZnPg==&logoColor=white)](https://spb.hh.ru/resume/7de60396ff099911fa0039ed1f306663386f35)
+
 [![Channel](https://img.shields.io/badge/channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/egorindev)
 [![VK](https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/nezort11)
 
@@ -43,13 +44,13 @@ Freelancing and doing hobby projects 🔭
 
 - ⚙️ **Backend**
 
-  - > API (*REST*): ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
+  - > **API (*REST*)**: ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
 
   - MVT: ⚡️
 
 - 🖼 **Frontend**
   
-  - > Web apps (*SPA/SSR*): ⚡️⚡️⚡️⚡️⚡️⚡️
+  - > **Web apps (*SPA/SSR*)**: ⚡️⚡️⚡️⚡️⚡️⚡️
   
   - Mini apps (*VK*): ⚡️
   
@@ -119,7 +120,7 @@ The stack is modern and perfect ✨ for such apps.
 > ![HTML](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?logo=css3&style=flat&logoColor=white)
 ![Saas](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
-BEM
+![BEM](https://img.shields.io/badge/bem-000000?style=flat&logo=bem&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![React Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=flat&logo=react)
 ![FontAwesome](https://img.shields.io/badge/fontawesome-528DD7?style=flat&logo=fontawesome&logoColor=white)
@@ -254,19 +255,25 @@ Hi, I can develop a *RESTful web API* using Django w/ or w/o a *frontend webapp*
 
 ## 💸 Addresses
 
-monero:
+**Monero** (XMR):
 
 ```
 4Aud6vD3VxtKPyiJaREQFkaRz3LQ9fwobSy1iov869cdJKPSdVjcjKFQAcjcmdqHNN3Zt2y1GSFm515pGPJUum54UsGa17f
 ```
 
-bitcoin:
+Bitcoin (BTC):
 
 ```
 bc1q9cj0u82kw5uxc83vt26qgddmg3u805gypuspc7
 ```
 
-ethereum:
+USD Coin (USDC) [ERC-20]:
+
+```
+0x7714391100202E4b3aaF03Ea2E06642fa01BaaD4
+```
+
+USD Coin (USDC) [BEP-20]:
 
 ```
 0x7714391100202E4b3aaF03Ea2E06642fa01BaaD4
