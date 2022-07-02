@@ -74,7 +74,7 @@ Freelancing and doing hobby projects 🔭
 
 - 🔧 System: ⚡️
 
-## 🌟 Technology Stack
+## 🌟 Freelance Stack
 
 <a href="https://codetrace.com/users/Egor4ik325"><img src="https://codetrace.com/widget/Egor4ik325" width="255" height="58" alt="codetrace profile" title="CodeTrace profile" /></a>
 
@@ -267,13 +267,7 @@ Bitcoin (BTC):
 bc1q9cj0u82kw5uxc83vt26qgddmg3u805gypuspc7
 ```
 
-USD Coin (USDC) [ERC-20]:
-
-```
-0x7714391100202E4b3aaF03Ea2E06642fa01BaaD4
-```
-
-USD Coin (USDC) [BEP-20]:
+USD Coin (USDC) [ERC-20/BEP-20]:
 
 ```
 0x7714391100202E4b3aaF03Ea2E06642fa01BaaD4
@@ -299,7 +293,7 @@ USD Coin (USDC) [BEP-20]:
        <a href="https://wakatime.com/@nezort11"><img alt="Wakatime" height="25px" src="https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg" /></a>
     </td>
     <td valign="top">
-      since Nov 2021
+      coded since Nov 2021
     </td>
   </tr>
 </table>
