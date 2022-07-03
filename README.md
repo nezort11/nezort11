@@ -74,7 +74,7 @@ Freelancing and doing hobby projects 🔭
 
 - 🔧 System: ⚡️
 
-## 🌟 Freelance Stack
+## 🌟 Freelance/Pet Stack
 
 <a href="https://codetrace.com/users/Egor4ik325"><img src="https://codetrace.com/widget/Egor4ik325" width="255" height="58" alt="codetrace profile" title="CodeTrace profile" /></a>
 
