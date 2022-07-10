@@ -287,7 +287,7 @@ USD Coin (USDC) [ERC-20/BEP-20]:
 
 [<img alt="Egor's wakatime stats" width="690px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nezort11&layout=default&langs_count=6&last_7_days&custom_title=Wakatime%20last%207%20days&theme=solarized-light&border_color=00000000" />](https://wakatime.com/@nezort11)
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nezort11&skills=TypeScript,JavaScript,Python,HTML,CSS,SCSS&branding=false&sort-by-score=true" />
+<img alt="Skills chart" width="690px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nezort11&skills=TypeScript,JavaScript,Python,HTML,CSS,SCSS&branding=false&sort-by-score=true" />
 
 <table>
   <tr>
