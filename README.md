@@ -289,6 +289,8 @@ USD Coin (USDC) [ERC-20/BEP-20]:
 
 <img alt="Skills chart" width="690px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nezort11&skills=TypeScript,JavaScript,Python,HTML,CSS,SCSS&branding=false&sort-by-score=true" />
 
+<img alt="Activity chart" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=nezor11&labels=true" />
+
 <table>
   <tr>
     <td>
