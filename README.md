@@ -291,6 +291,8 @@ USD Coin (USDC) [ERC-20/BEP-20]:
 
 <img alt="Activity chart" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=nezor11&labels=true" />
 
+<img alt="Profile summary" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nezort11" />
+
 <table>
   <tr>
     <td>
