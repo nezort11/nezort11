@@ -287,11 +287,9 @@ USD Coin (USDC) [ERC-20/BEP-20]:
 
 [<img alt="Egor's wakatime stats" width="690px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nezort11&layout=default&langs_count=6&last_7_days&custom_title=Wakatime%20last%207%20days&theme=solarized-light&border_color=00000000" />](https://wakatime.com/@nezort11)
 
-<img alt="Skills chart" width="690px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nezort11&skills=TypeScript,JavaScript,Python,HTML,CSS,SCSS&branding=false&sort-by-score=true" />
+<img alt="Skills chart" width="690px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nezort11&skills=TypeScript,JavaScript,Python,HTML,CSS,SCSS&branding=false&sort-by-score=true&bg=antiquewhite" />
 
-<img alt="Activity chart" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=nezor11&labels=true" />
-
-<img alt="Profile summary" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nezort11" />
+<img alt="Profile summary" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nezort11&branding=false" />
 
 <table>
   <tr>
@@ -340,3 +338,6 @@ USD Coin (USDC) [ERC-20/BEP-20]:
 <!-- https://platane.github.io/snk/ -->
 
 ![Contributions snake status](./img/github-user-contribution.svg)
+
+<img alt="Activity chart" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=nezor11&labels=true&branding=false" />
+
