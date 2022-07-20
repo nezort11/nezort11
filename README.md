@@ -181,6 +181,9 @@ Noting:
 
 If you want you can look at my job [resume](https://www.dropbox.com/home?preview=Backend+Developer+CV+v3.1.pdf).
 
+
+<img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false" />
+
 ## 📅 Projects
 
 🔓 Open-source projects: 
@@ -215,7 +218,7 @@ If you want you can look at my job [resume](https://www.dropbox.com/home?preview
 - [API Documentation Options](https://egorindev.com/notes/api-documentation-options/)
 - [How useful are Django's model permissions?](https://egorindev.com/notes/how-useful-are-django-model-permissions/)
 
-## ⚒ Gig
+<!--## ⚒ Gig
 
 Hi, I can develop a *RESTful web API* using Django w/ or w/o a *frontend webapp* using React/Next (single-page or server-side rendered depending on SEO).
 
@@ -252,6 +255,7 @@ Hi, I can develop a *RESTful web API* using Django w/ or w/o a *frontend webapp*
 
   Contact me to discuss your projects requirements, budget and deadlines.
 </details>
+-->
 
 ## 💸 Addresses
 
@@ -290,8 +294,6 @@ USD Coin (USDC) [ERC-20/BEP-20]:
 <img alt="Skills chart" width="690px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nezort11&skills=TypeScript,JavaScript,Python,HTML,CSS,SCSS&branding=false&sort-by-score=true&bg=rgb(253, 246, 227)" />
 
 <img alt="Profile summary" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nezort11&branding=false&style=--header-bg-color:%20rgb(253,%20246,%20227);--header-text-color:%20rgb(38,%20139,%20210);%20--name-font-size:%2020px;--name-font-weight:%201000;" />
-
-<img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false" />
 
 <table>
   <tr>
