@@ -212,6 +212,27 @@ If you want you can look at my job [resume](https://www.dropbox.com/home?preview
 - [Weight Tracker](https://github.com/nezort11/weight-tracker): Manage your weight by making food records
 - [Learning Log](https://github.com/nezort11/django-learning-logs): Blog webapp for keeping track of learnt stuff
 
+🏃‍♂️ Freelance projects:
+
+- [Delta Konnect](https://github.com/delta-konnect)
+  - [Serial Management](https://github.com/nezort11/delta-konnect-serial-management): GS1 serial number management service
+  - [Warehouse Assignment](https://github.com/nezort11/delta-konnect-warehouse-management):  Assign reusable containers to Warehouse locations in SAGE100 
+  - [User Management](https://github.com/nezort11/delta-konnect-user-management): User management service
+  - [Encoder/Decoder](https://github.com/nezort11/delta-konnect-encoder-decoder): GS1 encoding and decoding service
+  - [RFID Processing](https://github.com/nezort11/delta-konnect-rfid-processing): User frontend aggregating a set of distributed services
+  - [Sage Query Helper](https://github.com/nezort11/delta-konnect-saqe-query-helper): Server application helping clients to communicate with SAGE100 via REST
+  - [Control Panel](https://github.com/nezort11/delta-konnect-control-panel): User frontend aggregating a set of distributed services
+  - [User Management Client](https://github.com/nezort11/delta-konnect-user-management-client): Authentication for client Django services  
+  - [Configs](https://github.com/nezort11/delta-konnect-configs): Additional general deployment configs/files (postgres, nginx, redis, etc.) 
+  - [Wiki](https://github.com/nezort11/delta-konnect-wiki): Delta Konnect knowledge base wiki
+- [Multivendor](https://github.com/nezort11/multivendor): Sell physical adspaces
+- [Checklists](https://github.com/nezort11/checklists): REST API for checklists
+- [Address](https://github.com/nezort11/address): Realty selling website
+
+🧱 Rock'n'Block projects:
+
+- [ZEROGAS Crowdsale Frontend](https://github.com/rock-n-block/zero-gas-crowdsale-frontend): 0GAS token crowdsale in React.js
+
 ## 🗒️ Recent notes
 
 - [REST API HTTPs Options](https://egorindev.com/notes/rest-api-https-options/)
