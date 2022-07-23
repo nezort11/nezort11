@@ -20,7 +20,7 @@
 
 - 📫 Reach me via [email](mailto:nezort11@gmail.com) or [telegram](https://t.me/nezort11).
 
-<!--- ❌ I'm not ~~CMS|system|DS/ML/AI|gamedev/VR/AR|IoT|blockchain/web3/DeFi/fintech|hacking|engineer/scientist/businessman~~.-->
+<!--- ❌ I'm not ~~CMS|system|DS/ML/AI|gamedev/VR/AR|IoT|blockchain/web3/DeFi/fintech|hacking|engineer/scientist/businessman~~   dApps.-->
 
 ## 👋💼 Me
 
@@ -181,8 +181,7 @@ Noting:
 
 If you want you can look at my job [resume](https://www.dropbox.com/home?preview=Backend+Developer+CV+v3.1.pdf).
 
-
-<img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false" />
+<img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false&" />
 
 ## 📅 Projects
 
@@ -216,11 +215,11 @@ If you want you can look at my job [resume](https://www.dropbox.com/home?preview
 
 - [Delta Konnect](https://github.com/delta-konnect)
   - [Serial Management](https://github.com/nezort11/delta-konnect-serial-management): GS1 serial number management service
-  - [Warehouse Assignment](https://github.com/nezort11/delta-konnect-warehouse-management):  Assign reusable containers to Warehouse locations in SAGE100 
+  - [Warehouse Assignment](https://github.com/nezort11/delta-konnect-warehouse-assignment):  Assign reusable containers to Warehouse locations in SAGE100 
   - [User Management](https://github.com/nezort11/delta-konnect-user-management): User management service
   - [Encoder/Decoder](https://github.com/nezort11/delta-konnect-encoder-decoder): GS1 encoding and decoding service
   - [RFID Processing](https://github.com/nezort11/delta-konnect-rfid-processing): User frontend aggregating a set of distributed services
-  - [Sage Query Helper](https://github.com/nezort11/delta-konnect-saqe-query-helper): Server application helping clients to communicate with SAGE100 via REST
+  - [Sage Query Helper](https://github.com/nezort11/delta-konnect-sage-query-helper): Server application helping clients to communicate with SAGE100 via REST
   - [Control Panel](https://github.com/nezort11/delta-konnect-control-panel): User frontend aggregating a set of distributed services
   - [User Management Client](https://github.com/nezort11/delta-konnect-user-management-client): Authentication for client Django services  
   - [Configs](https://github.com/nezort11/delta-konnect-configs): Additional general deployment configs/files (postgres, nginx, redis, etc.) 
@@ -278,25 +277,40 @@ Hi, I can develop a *RESTful web API* using Django w/ or w/o a *frontend webapp*
 </details>
 -->
 
-## 💸 Addresses
+## 💸 Finance
 
-**Monero** (XMR):
+<details open>
+  <summary>Monero (XMR):</summary>
 
 ```
 4Aud6vD3VxtKPyiJaREQFkaRz3LQ9fwobSy1iov869cdJKPSdVjcjKFQAcjcmdqHNN3Zt2y1GSFm515pGPJUum54UsGa17f
 ```
+</details>
 
-Bitcoin (BTC):
+<details>
+  <summary>Bitcoin (BTC):</summary>
 
 ```
 bc1q9cj0u82kw5uxc83vt26qgddmg3u805gypuspc7
 ```
+</details>
 
-USD Coin (USDC) [ERC-20/BEP-20]:
+<details>
+  <summary>USD Coin (USDC) on Ethereum/BNB/Polygon:</summary>
 
 ```
 0x7714391100202E4b3aaF03Ea2E06642fa01BaaD4
 ```
+</details>
+
+<details>
+  <summary>Tinkoff:</summary>
+
+[Debit Card](https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416)
+
+<img alt="Tinkoff Black QR code" width="345px" src="https://user-images.githubusercontent.com/59317431/180300584-ae576d5b-5ce8-4840-b46e-5521a55956ba.jpg" />
+
+</details>
 
 ## 📊 Stats
 
