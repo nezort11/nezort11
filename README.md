@@ -181,7 +181,7 @@ Noting:
 
 If you want you can look at my job [resume](https://www.dropbox.com/home?preview=Backend+Developer+CV+v3.1.pdf).
 
-<img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false&" />
+<img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false" />
 
 ## 📅 Projects
 
@@ -282,6 +282,8 @@ Hi, I can develop a *RESTful web API* using Django w/ or w/o a *frontend webapp*
 <details open>
   <summary>Monero (XMR):</summary>
 
+<br />
+
 ```
 4Aud6vD3VxtKPyiJaREQFkaRz3LQ9fwobSy1iov869cdJKPSdVjcjKFQAcjcmdqHNN3Zt2y1GSFm515pGPJUum54UsGa17f
 ```
@@ -289,6 +291,8 @@ Hi, I can develop a *RESTful web API* using Django w/ or w/o a *frontend webapp*
 
 <details>
   <summary>Bitcoin (BTC):</summary>
+
+<br />
 
 ```
 bc1q9cj0u82kw5uxc83vt26qgddmg3u805gypuspc7
@@ -298,6 +302,8 @@ bc1q9cj0u82kw5uxc83vt26qgddmg3u805gypuspc7
 <details>
   <summary>USD Coin (USDC) on Ethereum/BNB/Polygon:</summary>
 
+<br />
+
 ```
 0x7714391100202E4b3aaF03Ea2E06642fa01BaaD4
 ```
@@ -306,7 +312,9 @@ bc1q9cj0u82kw5uxc83vt26qgddmg3u805gypuspc7
 <details>
   <summary>Tinkoff:</summary>
 
-[Debit Card](https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416)
+<br />
+
+https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 
 <img alt="Tinkoff Black QR code" width="345px" src="https://user-images.githubusercontent.com/59317431/180300584-ae576d5b-5ce8-4840-b46e-5521a55956ba.jpg" />
 
