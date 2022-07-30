@@ -8,7 +8,7 @@
 
 - 👨‍💻 I am a software developer.
 
-- 🦄 I have a dream to develop shiny fullstack app.
+- 🦄 I have a dream to develop shiny app.
 
 - 🍓 I use Raspberry Pi as a server.
 
@@ -42,15 +42,9 @@ Freelancing and doing hobby projects 🔭
 
 ## 💪 Perks
 
-- ⚙️ **Backend**
-
-  - > **API (*REST*)**: ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
-
-  - MVT: ⚡️
-
 - 🖼 **Frontend**
   
-  - > **Web apps (*SPA/SSR*)**: ⚡️⚡️⚡️⚡️⚡️⚡️
+  - **Web apps (*Web3/SPA/SSR*)**: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
   
   - Mini apps (*VK*): ⚡️
   
@@ -60,13 +54,17 @@ Freelancing and doing hobby projects 🔭
 
   - Extensions (*Firefox/Chrome*): ⚡️
 
-- 📐 **Markup** (*web/responsive*): ⚡️⚡️⚡️
+- ⚙️ Backend
 
-- 📦 **DevOps** (*IaaS/PaaS*): ⚡️⚡️⚡️⚡️
+  - API (*REST*): ⚡️⚡️⚡️⚡️⚡️⚡️
+
+  - MVT: ⚡️
+
+- 📐 Markup (*web/responsive*): ⚡️⚡️⚡️
+
+- 📦 DevOps (*IaaS/PaaS*): ⚡️⚡️⚡️⚡️
 
 - 🎨 UI/UX: ⚡️⚡️
-
-<hr width="100px" />
 
 - ✍️ Noting: ⚡️
 
@@ -213,6 +211,9 @@ If you want you can look at my job [resume](https://www.dropbox.com/home?preview
 
 🏃‍♂️ Freelance projects:
 
+- [Multivendor](https://github.com/nezort11/multivendor): Sell physical adspaces
+- [Checklists](https://github.com/nezort11/checklists): REST API for checklists
+- [Address](https://github.com/nezort11/address): Realty selling website
 - [Delta Konnect](https://github.com/delta-konnect)
   - [Serial Management](https://github.com/nezort11/delta-konnect-serial-management): GS1 serial number management service
   - [Warehouse Assignment](https://github.com/nezort11/delta-konnect-warehouse-assignment):  Assign reusable containers to Warehouse locations in SAGE100 
@@ -224,9 +225,6 @@ If you want you can look at my job [resume](https://www.dropbox.com/home?preview
   - [User Management Client](https://github.com/nezort11/delta-konnect-user-management-client): Authentication for client Django services  
   - [Configs](https://github.com/nezort11/delta-konnect-configs): Additional general deployment configs/files (postgres, nginx, redis, etc.) 
   - [Wiki](https://github.com/nezort11/delta-konnect-wiki): Delta Konnect knowledge base wiki
-- [Multivendor](https://github.com/nezort11/multivendor): Sell physical adspaces
-- [Checklists](https://github.com/nezort11/checklists): REST API for checklists
-- [Address](https://github.com/nezort11/address): Realty selling website
 
 🧱 Rock'n'Block projects:
 
@@ -300,7 +298,7 @@ bc1q9cj0u82kw5uxc83vt26qgddmg3u805gypuspc7
 </details>
 
 <details>
-  <summary>USD Coin (USDC) on Ethereum/BNB/Polygon:</summary>
+  <summary>USD Coin (USDC) on *Ethereum/BNB/Polygon*:</summary>
 
 <br />
 
@@ -317,6 +315,8 @@ bc1q9cj0u82kw5uxc83vt26qgddmg3u805gypuspc7
 https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 
 <img alt="Tinkoff Black QR code" width="345px" src="https://user-images.githubusercontent.com/59317431/180300584-ae576d5b-5ce8-4840-b46e-5521a55956ba.jpg" />
+
+*(scan via Tinkoff app)*
 
 </details>
 
