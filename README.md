@@ -179,7 +179,7 @@ Noting:
 
 If you want you can look at my job [resume](https://www.dropbox.com/home?preview=Backend+Developer+CV+v3.1.pdf).
 
-<img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false" />
+<img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false&" />
 
 ## 📅 Projects
 
@@ -334,7 +334,7 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 
 [<img alt="Egor's wakatime stats" width="690px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nezort11&layout=default&langs_count=6&last_7_days&custom_title=Wakatime%20last%207%20days&theme=solarized-light&border_color=00000000" />](https://wakatime.com/@nezort11)
 
-<img alt="Skills chart" width="690px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nezort11&skills=TypeScript,JavaScript,Python,HTML,CSS,SCSS&branding=false&sort-by-score=true&bg=rgb(253, 246, 227)" />
+<img alt="Skills chart" width="690px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nezort11&skills=TypeScript,JavaScript,Python,HTML,CSS,SCSS&branding=false&sort-by-score=true&bg=antiquewhite" />
 
 <img alt="Profile summary" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nezort11&branding=false&style=--header-bg-color:%20rgb(253,%20246,%20227);--header-text-color:%20rgb(38,%20139,%20210);%20--name-font-size:%2020px;--name-font-weight:%201000;" />
 
