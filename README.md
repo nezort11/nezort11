@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/59317431/165397686-feda99f1-d983-433d-b99c-2a403cc36980.png" alt="profile banner" />
+<img src="https://user-images.githubusercontent.com/59317431/182343129-776c3d11-7eda-4a5f-aac0-081cf940b906.png" alt="profile banner" />
 
 <h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Egor</a> 🦜</h3>
 
@@ -15,6 +15,8 @@
 <!--- 🌍 Doing projects is my [life](https://github.com/users/nezort11/projects/2)style.-->
 
 - 🖤 My personal hobbies include webdev, self-hosting, scripting and blogging.
+
+- 🌈 My work is about *Web3/Blockchain/Dapps/DeFi/Stablecoin/ICO/NFT/FinTech/DEX/DAO/Metaverse*
 
 - ✨ I constantly seek for inspiration.
 
@@ -44,7 +46,7 @@ Freelancing and doing hobby projects 🔭
 
 - 🖼 **Frontend**
   
-  - **Web apps (*Web3/SPA/SSR*)**: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+  - **Web apps (*Web3/SPA/SSR*)**: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 <sub><sup>(10)<sup></sub>
   
   - Mini apps (*VK*): ⚡️
   
@@ -56,15 +58,15 @@ Freelancing and doing hobby projects 🔭
 
 - ⚙️ Backend
 
-  - API (*REST*): ⚡️⚡️⚡️⚡️⚡️⚡️
+  - API (*REST*): ⚡️⚡️⚡️⚡️⚡️⚡️ <sub><sup>(5)<sup></sub>
 
   - MVT: ⚡️
 
-- 📐 Markup (*web/responsive*): ⚡️⚡️⚡️
+- 📐 Markup (*web/responsive*): ⚡️⚡️⚡️ <sub><sup>(3)<sup></sub>
 
-- 📦 DevOps (*IaaS/PaaS*): ⚡️⚡️⚡️⚡️
+- 📦 DevOps (*IaaS/PaaS*): ⚡️⚡️⚡️⚡️ <sub><sup>(4)<sup></sub>
 
-- 🎨 UI/UX: ⚡️⚡️
+- 🎨 UI/UX: ⚡️
 
 - ✍️ Noting: ⚡️
 
@@ -298,7 +300,7 @@ bc1q9cj0u82kw5uxc83vt26qgddmg3u805gypuspc7
 </details>
 
 <details>
-  <summary>USD Coin (USDC) on *Ethereum/BNB/Polygon*:</summary>
+  <summary><ins>USD Coin (USDC) / Dai (DAI) / Binance USD (BUSD)</ins> on *Ethereum/BNB Chain/Polygon/Tron/Fantom/Optimism/Arbitrum/Celo*:</summary>
 
 <br />
 
