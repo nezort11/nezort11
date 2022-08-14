@@ -38,17 +38,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nezort11/)
 [![Fiverr](https://img.shields.io/badge/fiverr-00c770?logo=data:image/svg+xml;base64,PHN2ZyBpZD0iU3ZnanNTdmcxMDA2IiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpzdmdqcz0iaHR0cDovL3N2Z2pzLmNvbS9zdmdqcyI+PGRlZnMgaWQ9IlN2Z2pzRGVmczEwMDciPjwvZGVmcz48ZyBpZD0iU3ZnanNHMTAwOCIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI4OCIgaGVpZ2h0PSIyODgiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNDEzLjY5NiwzOTkuNzUxVjE2OS43NUgxODQuMzJ2LTE0LjM3NWMwLTIzLjc3OSwxOS4yOTUtNDMuMTI0LDQzLjAwNC00My4xMjRoNDMuMDA4di04Ni4yNSAgICAgaC00My4wMDhjLTcxLjEzNCwwLTEyOS4wMTksNTguMDQ0LTEyOS4wMTksMTI5LjM3NHYxNC4zNzVINDAuOTYyVjI1Nmg1Ny4zNDJ2MTQzLjc1MUg0MC45NjJ2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEgxODQuMzJWMjU2ICAgICBoMTQ0LjE1N3YxNDMuNzUxaC01OC4xNDV2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEg0MTMuNjk2eiIgY2xhc3M9ImNvbG9yMWRiZjczIHN2Z1NoYXBlIj48L3BhdGg+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTM3MC42ODUsMTEyLjI1MWMyMy43NTEsMCw0My4wMTItMTkuMzA2LDQzLjAxMi00My4xMjVjMC0yMy44MjEtMTkuMjYxLTQzLjEyNS00My4wMTItNDMuMTI0ICAgICBjLTIzLjc0OSwwLTQzLjAwNSwxOS4zMDMtNDMuMDA1LDQzLjEyNEMzMjcuNjgsOTIuOTQ1LDM0Ni45MzYsMTEyLjI1MSwzNzAuNjg1LDExMi4yNTF6IiBjbGFzcz0iY29sb3IxZGJmNzMgc3ZnU2hhcGUiPjwvcGF0aD48L3N2Zz48L2c+PC9zdmc+&style=for-the-badge&logoColor=white)](https://www.fiverr.com/nezort11)
 
+[*Resume*](https://www.dropbox.com/home?preview=Backend+Developer+CV+v3.1.pdf)
+
 <hr width="200px" />
 
 <a href="https://stackoverflow.com/users/13774599/nezort11"><img src="https://stackoverflow.com/users/flair/13774599.png" width="208" height="58" alt="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers" title="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers"></a>
 
-[![Codeberg](https://img.shields.io/badge/codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/nezort11)
+<!--[![Codeberg](https://img.shields.io/badge/codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/nezort11)-->
 [![PyPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/nezort11/)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nezort11)
 
+<!--
 ## 🛠 Current project
 
 Freelancing and doing hobby projects 🔭
+--!>
 
 ## 💪 Perks
 
@@ -56,13 +60,15 @@ Freelancing and doing hobby projects 🔭
   
   - **Web apps (*Web3/SPA/SSR*)**: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 <sub><sup>(10)<sup></sub>
   
-  - Mini apps (*VK*): ⚡️
-  
+  - Websites & landings (*SSG*): ⚡️
+
   - Webview apps (*Android*): ⚡️
   
-  - Websites (*SSG*): ⚡️
-
   - Extensions (*Firefox/Chrome*): ⚡️
+
+<!--  - X-platforms apps (*Android/iOS*): ⚡️ -->
+
+<!--  - Mini apps (*VK*): ⚡️ -->
 
 - ⚙️ Backend
 
@@ -70,11 +76,13 @@ Freelancing and doing hobby projects 🔭
 
   - MVT: ⚡️
 
-- 📐 Markup (*web/responsive*): ⚡️⚡️⚡️ <sub><sup>(3)<sup></sub>
+<!-- - 📐 Markup (*web/responsive*): ⚡️⚡️⚡️ <sub><sup>(3)<sup></sub>-->
 
 - 📦 DevOps (*IaaS/PaaS*): ⚡️⚡️⚡️⚡️ <sub><sup>(4)<sup></sub>
 
 - 🎨 UI/UX: ⚡️
+
+- 🧪 QA: ⚡️
 
 - ✍️ Noting: ⚡️
 
@@ -86,9 +94,9 @@ Freelancing and doing hobby projects 🔭
 
 ## 🌟 Freelance/Pet Stack
 
-<a href="https://codetrace.com/users/Egor4ik325"><img src="https://codetrace.com/widget/Egor4ik325" width="255" height="58" alt="codetrace profile" title="CodeTrace profile" /></a>
-
+<!--
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/egor4ik325/my-stack)
+-->
 
 The stack is most suitable for creating _medium/large synchronous monolithic RESTful APIs_ 🔌
 for _single-page or server-side rendered applications_ 📄 and deployment in the cloud _VPS_ ☁️.
@@ -162,9 +170,9 @@ The stack is modern and perfect ✨ for such apps.
 
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<!--<hr width="200px" />--!>
+<!--<hr width="200px" />-->
 
-Scripting:
+🐍 Scripting:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/telegram-35a7df?style=flat&logo=telegram&logoColor=white)
@@ -178,12 +186,9 @@ Scripting:
 
 ![Hugo](https://img.shields.io/badge/hugo-FF4088?style=flat&logo=hugo&logoColor=white)
 
-## 📝 Resume
+<a href="https://codetrace.com/users/Egor4ik325"><img src="https://codetrace.com/widget/Egor4ik325" width="255" height="58" alt="codetrace profile" title="CodeTrace profile" /></a>
 
-If you want you can look at my job [resume](https://www.dropbox.com/home?preview=Backend+Developer+CV+v3.1.pdf).
-
-### Work experience
-<hr width="150px" />
+## ⏳ Timeline
 
 <img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false&" />
 
