@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Egor</a> 🦜</h3>
 
-<h2 align="center">I develop Django/React stuff 💻</h2>
+<h2 align="center">I develop <i>Django/React</i> stuff 💻</h2>
 
 - 💼 I work at backend and fullstack.
 
@@ -38,6 +38,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nezort11/)
 [![Fiverr](https://img.shields.io/badge/fiverr-00c770?logo=data:image/svg+xml;base64,PHN2ZyBpZD0iU3ZnanNTdmcxMDA2IiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpzdmdqcz0iaHR0cDovL3N2Z2pzLmNvbS9zdmdqcyI+PGRlZnMgaWQ9IlN2Z2pzRGVmczEwMDciPjwvZGVmcz48ZyBpZD0iU3ZnanNHMTAwOCIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI4OCIgaGVpZ2h0PSIyODgiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNDEzLjY5NiwzOTkuNzUxVjE2OS43NUgxODQuMzJ2LTE0LjM3NWMwLTIzLjc3OSwxOS4yOTUtNDMuMTI0LDQzLjAwNC00My4xMjRoNDMuMDA4di04Ni4yNSAgICAgaC00My4wMDhjLTcxLjEzNCwwLTEyOS4wMTksNTguMDQ0LTEyOS4wMTksMTI5LjM3NHYxNC4zNzVINDAuOTYyVjI1Nmg1Ny4zNDJ2MTQzLjc1MUg0MC45NjJ2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEgxODQuMzJWMjU2ICAgICBoMTQ0LjE1N3YxNDMuNzUxaC01OC4xNDV2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEg0MTMuNjk2eiIgY2xhc3M9ImNvbG9yMWRiZjczIHN2Z1NoYXBlIj48L3BhdGg+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTM3MC42ODUsMTEyLjI1MWMyMy43NTEsMCw0My4wMTItMTkuMzA2LDQzLjAxMi00My4xMjVjMC0yMy44MjEtMTkuMjYxLTQzLjEyNS00My4wMTItNDMuMTI0ICAgICBjLTIzLjc0OSwwLTQzLjAwNSwxOS4zMDMtNDMuMDA1LDQzLjEyNEMzMjcuNjgsOTIuOTQ1LDM0Ni45MzYsMTEyLjI1MSwzNzAuNjg1LDExMi4yNTF6IiBjbGFzcz0iY29sb3IxZGJmNzMgc3ZnU2hhcGUiPjwvcGF0aD48L3N2Zz48L2c+PC9zdmc+&style=for-the-badge&logoColor=white)](https://www.fiverr.com/nezort11)
 
+<hr width="200px" />
+
+<a href="https://stackoverflow.com/users/13774599/nezort11"><img src="https://stackoverflow.com/users/flair/13774599.png" width="208" height="58" alt="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers" title="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers"></a>
+
+[![Codeberg](https://img.shields.io/badge/codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/nezort11)
+[![PyPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/nezort11/)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nezort11)
+
 ## 🛠 Current project
 
 Freelancing and doing hobby projects 🔭
@@ -72,7 +80,9 @@ Freelancing and doing hobby projects 🔭
 
 - 🐍 Scripting: ⚡️
 
-- 🔧 System: ⚡️
+- 🧠 Problem solving: ⚡️
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/Nezort11?theme=default&font=baloo&extension=null&width=470)](https://leetcode.com/Nezort11)
 
 ## 🌟 Freelance/Pet Stack
 
@@ -84,7 +94,7 @@ The stack is most suitable for creating _medium/large synchronous monolithic RES
 for _single-page or server-side rendered applications_ 📄 and deployment in the cloud _VPS_ ☁️.
 The stack is modern and perfect ✨ for such apps.
 
-[**Backend**](https://github.com/stars/nezort11/lists/backend-stack):
+⚙️ [**Backend**](https://github.com/stars/nezort11/lists/backend-stack):
 
 > ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20?style=flat&logo=django&logoColor=white)
@@ -100,7 +110,7 @@ The stack is modern and perfect ✨ for such apps.
 ![Celery](https://img.shields.io/badge/celery-37814A?logo=celery&style=flat&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?logo=redis&style=flat&logoColor=white)
 
-[**Frontend**](https://github.com/stars/nezort11/lists/frontend-stack):
+🖼 [**Frontend**](https://github.com/stars/nezort11/lists/frontend-stack):
 
 > ![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react)
@@ -115,7 +125,7 @@ The stack is modern and perfect ✨ for such apps.
 ![React Native](https://img.shields.io/badge/native-20232A?style=flat&logo=react)
 ![Expo](https://img.shields.io/badge/expo-000020?style=flat&logo=expo&logoColor=white)
 
-[**Markup**](https://github.com/stars/nezort11/lists/design-stack):
+📐 [**Markup**](https://github.com/stars/nezort11/lists/design-stack):
 
 > ![HTML](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?logo=css3&style=flat&logoColor=white)
@@ -129,7 +139,7 @@ The stack is modern and perfect ✨ for such apps.
 ![VK UI](https://img.shields.io/badge/ui-0077FF?style=flat&logo=vk&logoColor=white)
 ![VK Icons](https://img.shields.io/badge/icons-0077FF?style=flat&logo=vk&logoColor=white)
 
-[**Devops**](https://github.com/stars/nezort11/lists/devops-stack):
+📦 [**Devops**](https://github.com/stars/nezort11/lists/devops-stack):
 
 > ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&style=flat&logoColor=white)
@@ -148,38 +158,32 @@ The stack is modern and perfect ✨ for such apps.
 ![Raspberry Pi](https://img.shields.io/badge/pi-A22846?logo=raspberrypi&style=flat&logoColor=white) 
 ![Yandex Metrika](https://img.shields.io/badge/metrika-ff0000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAHklEQVQ4jWNgGDLgPxYwnA3Apng4G0Cs4uFswIADAM8w3jD1u2ZEAAAAAElFTkSuQmCC&style=flat&logoColor=white)
 
-UI/UX:
+🎨 UI/UX:
 
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<hr width="200px" />
+<!--<hr width="200px" />--!>
 
 Scripting:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/telegram-35a7df?style=flat&logo=telegram&logoColor=white)
 
-System:
+🧠 Problem solving:
 
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 
-Noting:
+✍️ Noting:
 
 ![Hugo](https://img.shields.io/badge/hugo-FF4088?style=flat&logo=hugo&logoColor=white)
-
-## ✉️ Find me
-
-[![LeetCode Stats](https://leetcode.card.workers.dev/Nezort11?theme=default&font=baloo&extension=null&width=470)](https://leetcode.com/Nezort11)
-
-<a href="https://stackoverflow.com/users/13774599/nezort11"><img src="https://stackoverflow.com/users/flair/13774599.png" width="208" height="58" alt="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers" title="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers"></a>
-
-[![Codeberg](https://img.shields.io/badge/codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/nezort11)
-[![PyPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/nezort11/)
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nezort11)
 
 ## 📝 Resume
 
 If you want you can look at my job [resume](https://www.dropbox.com/home?preview=Backend+Developer+CV+v3.1.pdf).
+
+### Work experience
+<hr width="150px" />
 
 <img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false&" />
 
@@ -194,6 +198,7 @@ If you want you can look at my job [resume](https://www.dropbox.com/home?preview
 
 🐶 Pet projects:
 
+- [problems](https://github.com/nezort11/problems/): Solved CS algorithmic problems
 - [olgaz.ru](https://github.com/nezort11/olgaz.ru): Landing static site built with Next.js
 - [Filehole](https://github.com/nezort11/filehole): LAN file sharing made fast
 - [RSS Notifier](https://github.com/nezort11/rss-notifier): Telegram notifier about Upwork RSS feed
@@ -300,7 +305,7 @@ bc1q9cj0u82kw5uxc83vt26qgddmg3u805gypuspc7
 </details>
 
 <details>
-  <summary><ins>USD Coin (USDC) / Dai (DAI) / Binance USD (BUSD)</ins> on *Ethereum/BNB Chain/Polygon/Tron/Fantom/Optimism/Arbitrum/Celo*:</summary>
+  <summary><ins>USD Coin (USDC) / Dai (DAI) / Binance USD (BUSD)</ins> on <i>Ethereum/BSC/Polygon/Tron/Fantom/Optimism/Arbitrum/Celo</i>:</summary>
 
 <br />
 
@@ -340,16 +345,7 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 
 <img alt="Profile summary" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nezort11&branding=false&style=--header-bg-color:%20rgb(253,%20246,%20227);--header-text-color:%20rgb(38,%20139,%20210);%20--name-font-size:%2020px;--name-font-weight:%201000;" />
 
-<table>
-  <tr>
-    <td>
-       <a href="https://wakatime.com/@nezort11"><img alt="Wakatime" height="25px" src="https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg" /></a>
-    </td>
-    <td valign="top">
-      coded since Nov 2021
-    </td>
-  </tr>
-</table>
+<a href="https://wakatime.com/@nezort11"><img alt="Wakatime" height="25px" src="https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg" /></a> <sup>coded since Nov 2021</sup>
 
 ## 📈 Coding activity
 
@@ -373,7 +369,7 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 
 <details>
   <summary>
-    <b>All tme</b>
+    <b>All time</b>
   </summary>
   
   <img alt="Wakatime activity all time" width="690px" src="https://wakatime.com/share/@nezort11/c83dfe32-f194-4d46-9f38-d4ad55980b17.svg" />
