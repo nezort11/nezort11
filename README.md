@@ -52,7 +52,7 @@
 ## 🛠 Current project
 
 Freelancing and doing hobby projects 🔭
---!>
+-->
 
 ## 💪 Perks
 
