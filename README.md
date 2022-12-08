@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/59317431/182343129-776c3d11-7eda-4a5f-aac0-081cf940b906.png" alt="profile banner" />
 
-<h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Egor</a> 🦜</h3>
+<h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Yegor</a> 🦜</h3>
 
-<h2 align="center">I develop <i>Django/React</i> stuff 💻</h2>
+<h2 align="center">I develop <i>cool</i> stuff 💻</h2>
 
 - 💼 I work at backend and fullstack.
 
@@ -16,7 +16,7 @@
 
 - 🖤 My personal hobbies include webdev, self-hosting, scripting and blogging.
 
-- 🌈 My work is about *Web3/Blockchain/Dapps/DeFi/Stablecoin/ICO/NFT/FinTech/DEX/DAO/Metaverse*
+- 🌈 My work is about *Crypto, Web3, Blockchain, Dapps, DeFi, Stablecoin, ICO, NFT, FinTech, DEXs,  CEXs, DAO, Metaverse*.
 
 - ✨ I constantly seek for inspiration.
 
@@ -35,10 +35,19 @@
 [![Channel](https://img.shields.io/badge/channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/egorindev)
 [![VK](https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/nezort11)
 
+[![Resume](https://img.shields.io/badge/resume-0061FF?style=for-the-badge&logo=dropbox&logoColor=white)](https://www.dropbox.com/s/7lzws5idhokfgdi/CV.pdf)
+
+<hr width="200px" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nezort11/)
 [![Fiverr](https://img.shields.io/badge/fiverr-00c770?logo=data:image/svg+xml;base64,PHN2ZyBpZD0iU3ZnanNTdmcxMDA2IiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpzdmdqcz0iaHR0cDovL3N2Z2pzLmNvbS9zdmdqcyI+PGRlZnMgaWQ9IlN2Z2pzRGVmczEwMDciPjwvZGVmcz48ZyBpZD0iU3ZnanNHMTAwOCIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI4OCIgaGVpZ2h0PSIyODgiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNDEzLjY5NiwzOTkuNzUxVjE2OS43NUgxODQuMzJ2LTE0LjM3NWMwLTIzLjc3OSwxOS4yOTUtNDMuMTI0LDQzLjAwNC00My4xMjRoNDMuMDA4di04Ni4yNSAgICAgaC00My4wMDhjLTcxLjEzNCwwLTEyOS4wMTksNTguMDQ0LTEyOS4wMTksMTI5LjM3NHYxNC4zNzVINDAuOTYyVjI1Nmg1Ny4zNDJ2MTQzLjc1MUg0MC45NjJ2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEgxODQuMzJWMjU2ICAgICBoMTQ0LjE1N3YxNDMuNzUxaC01OC4xNDV2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEg0MTMuNjk2eiIgY2xhc3M9ImNvbG9yMWRiZjczIHN2Z1NoYXBlIj48L3BhdGg+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTM3MC42ODUsMTEyLjI1MWMyMy43NTEsMCw0My4wMTItMTkuMzA2LDQzLjAxMi00My4xMjVjMC0yMy44MjEtMTkuMjYxLTQzLjEyNS00My4wMTItNDMuMTI0ICAgICBjLTIzLjc0OSwwLTQzLjAwNSwxOS4zMDMtNDMuMDA1LDQzLjEyNEMzMjcuNjgsOTIuOTQ1LDM0Ni45MzYsMTEyLjI1MSwzNzAuNjg1LDExMi4yNTF6IiBjbGFzcz0iY29sb3IxZGJmNzMgc3ZnU2hhcGUiPjwvcGF0aD48L3N2Zz48L2c+PC9zdmc+&style=for-the-badge&logoColor=white)](https://www.fiverr.com/nezort11)
 
-[*Resume*](https://www.dropbox.com/home?preview=Backend+Developer+CV+v3.1.pdf)
+<!--
+Facebook
+Twitter
+Instagram
+TikTok
+-->
 
 <hr width="200px" />
 
@@ -57,18 +66,26 @@ Freelancing and doing hobby projects 🔭
 ## 💪 Perks
 
 - 🖼 **Frontend**
-  
-  - **Web apps (*Web3/SPA/SSR*)**: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 <sub><sup>(10)<sup></sub>
-  
-  - Websites & landings (*SSG*): ⚡️
 
-  - Webview apps (*Android*): ⚡️
+  - **Web apps (*Web3/SPA/SSR*)**: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 <sub><sup>(10)<sup></sub>
+
+    <hr width="200px" />
+
+  - Websites / Landings (*SSG*): ⚡️
+
+<!--  - Mobile apps (*Android/iOS*): ⚡️ -->
+
+    <hr width="200px" />
   
   - Extensions (*Firefox/Chrome*): ⚡️
 
-<!--  - X-platforms apps (*Android/iOS*): ⚡️ -->
+<!--  - Webview apps (*Android*): ⚡️-->
+
+<!--  - VS Code extension: ⚡️ -->
 
 <!--  - Mini apps (*VK*): ⚡️ -->
+
+<!--  - Electron apps: ⚡️ -->
 
 - ⚙️ Backend
 
@@ -84,7 +101,9 @@ Freelancing and doing hobby projects 🔭
 
 - 🧪 QA: ⚡️
 
-- ✍️ Noting: ⚡️
+- ✍️ Writing: ⚡️
+
+- 📢 SMM: ⚡️
 
 - 🐍 Scripting: ⚡️
 
@@ -104,67 +123,94 @@ The stack is modern and perfect ✨ for such apps.
 
 ⚙️ [**Backend**](https://github.com/stars/nezort11/lists/backend-stack):
 
-> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20?style=flat&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/restframework-a30000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAZElEQVRYhe3TwQkAMAhDUfdfuj312GLEqIVkgf9ANPtx67K2cAnEG6chWgFoPB0hgAARRGp8BABBUOJeBDX+gpSFtbMxtx/1AVSEN05DtALQeDpCAAEiiNT4CACCoMQ9EHqYsQ0Nh9tdd7/PJgAAAABJRU5ErkJggg==&style=flat&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/openapi-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+<details>
+<summary>
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white" />
+<img alt="Django" src="https://img.shields.io/badge/django-%23092E20?style=flat&logo=django&logoColor=white" />
+<img alt="Django REST Framework" src="https://img.shields.io/badge/restframework-a30000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAZElEQVRYhe3TwQkAMAhDUfdfuj312GLEqIVkgf9ANPtx67K2cAnEG6chWgFoPB0hgAARRGp8BABBUOJeBDX+gpSFtbMxtx/1AVSEN05DtALQeDpCAAEiiNT4CACCoMQ9EHqYsQ0Nh9tdd7/PJgAAAABJRU5ErkJggg==&style=flat&logoColor=white" />
+<img alt="OpenAPI" src="https://img.shields.io/badge/openapi-6BA539?style=flat&logo=openapiinitiative&logoColor=white" />
+<img alt="Pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
 |
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+<img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+</summary>
 
+<br />
 
 ![SQL](https://img.shields.io/badge/sql-black?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABJElEQVR4nO3TUQ6EMAhFUfe/ZBMzswFjgQIP6GvSPzvDPdbrcl7Pff8it/e82ys6uBwIOhgGgg6DQaBDoBDo4aEI6KGhCOhhoQjoIeEI6AEJQAACYAEmI4jiJ0KowychmIM7Y2i7PiM1z1YKtvQso5aHg2E8/t9teOkwWctt7qy3FB0KA6i+CUAAAhCAAKciiOKnIqjiJ0GYgrtjWNpeI6XPVdgeTZ9hy4OJKDuzuERIBkAsl9mj3kjECpkVdWXLzJL1HaM2AQhAAAIQ4FQEUfxECHX4FIjt2I4YlqZloOVMhTdsuhXeVwpxjbd+L/wbC1iuM2dczYxQKEDlTQACEIAABDgVQRQ/FUEVPw3BFD8FYSu+M4RbeDeIsPCqIOnBq9Ut+A+y/P/Eop5RPwAAAABJRU5ErkJggg==&style=flat&logoColor=white)
 |
 ![Celery](https://img.shields.io/badge/celery-37814A?logo=celery&style=flat&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?logo=redis&style=flat&logoColor=white)
 
+</details>
+
 🖼 [**Frontend**](https://github.com/stars/nezort11/lists/frontend-stack):
 
-> ![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react)
-![React Router](https://img.shields.io/badge/router-20232A?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/jest-C21325?style=flat&logo=jest)
-|
-![Next](https://img.shields.io/badge/next-000000?style=flat&logo=next.js&logoColor=white)
+<details>
 
+<summary>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript" />
+<img alt="React" src="https://img.shields.io/badge/react-20232A?style=flat&logo=react" />
+<img alt="React Router" src="https://img.shields.io/badge/router-20232A?style=flat&logo=react" />
+<img alt="Jest" src="https://img.shields.io/badge/jest-C21325?style=flat&logo=jest" />
+|
+<img alt="Next" src="https://img.shields.io/badge/next-000000?style=flat&logo=next.js&logoColor=white" />
+</summary>
+
+<br />
 
 ![VK Bridge](https://img.shields.io/badge/bridge-0077FF?style=flat&logo=vk&logoColor=white)
 |
 ![React Native](https://img.shields.io/badge/native-20232A?style=flat&logo=react)
 ![Expo](https://img.shields.io/badge/expo-000020?style=flat&logo=expo&logoColor=white)
 
+</details>
+
 📐 [**Markup**](https://github.com/stars/nezort11/lists/design-stack):
 
-> ![HTML](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-1572B6?logo=css3&style=flat&logoColor=white)
-![Saas](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
-![BEM](https://img.shields.io/badge/bem-000000?style=flat&logo=bem&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![React Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=flat&logo=react)
-![FontAwesome](https://img.shields.io/badge/fontawesome-528DD7?style=flat&logo=fontawesome&logoColor=white)
+<details>
 
+<summary>
+<img alt="HTML" src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/css-1572B6?logo=css3&style=flat&logoColor=white" />
+<img alt="Saas" src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white" />
+<img alt="BEM" src="https://img.shields.io/badge/bem-000000?style=flat&logo=bem&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+<img alt="React Bootstrap" src="https://img.shields.io/badge/bootstrap-20232A?style=flat&logo=react" />
+<img alt="FontAwesome" src="https://img.shields.io/badge/fontawesome-528DD7?style=flat&logo=fontawesome&logoColor=white" />
+</summary>
+
+<br />
 
 ![VK UI](https://img.shields.io/badge/ui-0077FF?style=flat&logo=vk&logoColor=white)
 ![VK Icons](https://img.shields.io/badge/icons-0077FF?style=flat&logo=vk&logoColor=white)
 
+</details>
+
 📦 [**Devops**](https://github.com/stars/nezort11/lists/devops-stack):
 
-> ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&style=flat&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&style=flat&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&style=flat&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-499848?logo=gunicorn&style=flat&logoColor=white)
-|
-![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-|
-![Let's Encrypt](https://img.shields.io/badge/letsencrypt-003A70?logo=letsencrypt&style=flat&logoColor=white)
-![Actions](https://img.shields.io/badge/actions-100000?style=flat&logo=github&logoColor=white)
-![Sentry](https://img.shields.io/badge/sentry-362D59?logo=sentry&style=flat&logoColor=white)
+<details>
 
+<summary>
+<img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&style=flat&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=flat&logoColor=white" />
+<img alt="Nginx" src="https://img.shields.io/badge/nginx-009639?logo=nginx&style=flat&logoColor=white" />
+<img alt="Gunicorn" src="https://img.shields.io/badge/gunicorn-499848?logo=gunicorn&style=flat&logoColor=white" />
+|
+<img alt="Netlify" src="https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+|
+<img alt="Let's Encrypt" src="https://img.shields.io/badge/letsencrypt-003A70?logo=letsencrypt&style=flat&logoColor=white" />
+<img alt="Actions" src="https://img.shields.io/badge/actions-100000?style=flat&logo=github&logoColor=white" />
+<img alt="Sentry" src="https://img.shields.io/badge/sentry-362D59?logo=sentry&style=flat&logoColor=white" />
+</summary>
+
+<br />
 
 ![Yandex Cloud](https://img.shields.io/badge/yandexcloud-5282ff?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAS0lEQVQ4jb2RMRIAIAjD+P+ndXOxQKqenZtw1giRkUR1EYhEFJYSF94kVwJ0oThkLY4Fzi/9E+iHQkEGr25VaOEnghMJXhnDaHGRCfIwxVcyn6/VAAAAAElFTkSuQmCC&style=flat&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/pi-A22846?logo=raspberrypi&style=flat&logoColor=white) 
 ![Yandex Metrika](https://img.shields.io/badge/metrika-ff0000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAHklEQVQ4jWNgGDLgPxYwnA3Apng4G0Cs4uFswIADAM8w3jD1u2ZEAAAAAElFTkSuQmCC&style=flat&logoColor=white)
+
+</details>
 
 🎨 UI/UX:
 
@@ -200,6 +246,7 @@ The stack is modern and perfect ✨ for such apps.
 - [cookiecutter-react-app](https://github.com/nezort11/cookiecutter-react-app): Cookiecutter for creating React single-page web apps
 - [django-rest-knox-allauth](https://github.com/nezort11/django-rest-knox-allauth): Django endpoints integration for [django-allauth](https://github.com/pennersr/django-allauth) + [django-rest-knox](https://github.com/James1345/django-rest-knox)
 - [dotfiles](https://github.com/nezort11/dotfiles): Amazing configuration, setting and code snippet files for productivity
+
 
 🐶 Pet projects:
 
@@ -242,11 +289,13 @@ The stack is modern and perfect ✨ for such apps.
 
 - [ZEROGAS Crowdsale Frontend](https://github.com/rock-n-block/zero-gas-crowdsale-frontend): 0GAS token crowdsale in React.js
 
+<!--
 ## 🗒️ Recent notes
 
 - [REST API HTTPs Options](https://egorindev.com/notes/rest-api-https-options/)
 - [API Documentation Options](https://egorindev.com/notes/api-documentation-options/)
 - [How useful are Django's model permissions?](https://egorindev.com/notes/how-useful-are-django-model-permissions/)
+-->
 
 <!--## ⚒ Gig
 
