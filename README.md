@@ -4,6 +4,10 @@
 
 <h2 align="center">I develop <i>cool</i> stuff 💻</h2>
 
+
+**TypeScript + Next.js + MUI = 🔥**
+
+
 - 💼 I work at backend and fullstack.
 
 - 👨‍💻 I am a software developer.
