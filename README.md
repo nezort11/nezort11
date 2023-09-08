@@ -5,10 +5,10 @@
 <h2 align="center">I try to develop <i>cool</i> stuff 💻</h2>
 
 
-**TypeScript + Next.js + MUI = 🔥**
+**TypeScript + React.js + MUI = 🔥**
 
 
-- 💼 I work at backend and fullstack.
+- 💼 I work at fronend.
 
 - 👨‍💻 I am a software developer.
 
@@ -18,11 +18,11 @@
 
 <!--- 🌍 Doing projects is my [life](https://github.com/users/nezort11/projects/2)style.-->
 
-- 🖤 My personal hobbies include webdev, self-hosting, scripting and blogging.
+- 🖤 My personal hobbies include webdev, self-hosting & scripting.
 
-- 🌈 My work is about *Crypto, Web3, Blockchain, Dapps, DeFi, Stablecoin, ICO, NFT, FinTech, DEXs,  CEXs, DAO, Metaverse*.
+<!-- - 🌈 My work is about *Crypto, Web3, Blockchain, Dapps, DeFi, Stablecoin, ICO, NFT, FinTech, DEXs,  CEXs, DAO, Metaverse*. -->
 
-- ✨ I constantly seek for inspiration.
+- ✨ I constantly seek for inspiration for new projects.
 
 - 📫 Reach me via [email](mailto:nezort11@gmail.com) or [telegram](https://t.me/nezort11).
 
@@ -33,18 +33,27 @@
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nezort11)
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nezort11)
 
+<!--
 [![TenChat](https://img.shields.io/badge/tenchat-fc3234?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white)](https://tenchat.ru/nezort11)
 [![HeadHunter](https://img.shields.io/badge/hh-d50000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNCA0OGMxMy4yNTUgMCAyNC0xMC43NDUgMjQtMjRTMzcuMjU1IDAgMjQgMCAwIDEwLjc0NSAwIDI0czEwLjc0NSAyNCAyNCAyNCIgZmlsbD0iI0Q2MDAxQyIvPjxwYXRoIGQ9Ik0xMy42NSAxMy4xNjl2OC4xNjRjMS4yNDMtMS40ODIgMi43MzMtMi4yMjggNC40NjEtMi4yMjguODkgMCAxLjY4Ny4xNyAyLjQwMi41MDcuNzE3LjMzNSAxLjI1My43NjUgMS42MTUgMS4yODcuMzY0LjUyNy42MSAxLjEwNC43NDMgMS43NC4xMzIuNjMzLjE5OCAxLjYxOC4xOTggMi45NTR2OC43MjloLTMuODYyVjI2LjQ2YzAtMS41Ni0uMDctMi41NDgtLjIxNy0yLjk2OGExLjkxNyAxLjkxNyAwIDAgMC0uNzc1LTFjLS4zNzItLjI1MS0uODM1LS4zNzUtMS4zOTQtLjM3NS0uNjQgMC0xLjIxNC4xNi0xLjcxMy40NzgtLjUxLjMyLS44NzYuNzk4LTEuMTA4IDEuNDM3LS4yMzYuNjQtLjM1NCAxLjU4NS0uMzUgMi44MzZsLS4wMDQgNy40NTRIOS43ODlWMTMuMTY5aDMuODYybTE1LjIwNiAwdjguMTY0YzEuMjQ0LTEuNDgyIDIuNzMzLTIuMjI4IDQuNDYtMi4yMjguODg3IDAgMS42OS4xNyAyLjQwNi41MDcuNzE0LjMzNSAxLjI1Ljc2NSAxLjYxIDEuMjg3YTQuNjkgNC42OSAwIDAgMSAuNzQzIDEuNzRjLjEzMy42MzMuMTk5IDEuNjE4LjE5OSAyLjk1NHY4LjcyOWgtMy44NThWMjYuNDZjMC0xLjU2LS4wNzMtMi41NDgtLjIyLTIuOTY4YTEuOTEgMS45MSAwIDAgMC0uNzc3LTFjLS4zNjgtLjI1MS0uODM1LS4zNzUtMS4zOTQtLjM3NS0uNjM5IDAtMS4yMTMuMTYtMS43MTMuNDc4LS41MDMuMzItLjg3MS43OTgtMS4xMDYgMS40MzctLjIzMi42NC0uMzUgMS41ODUtLjM1IDIuODM2djcuNDU0SDI1VjEzLjE2OWgzLjg1NyIgZmlsbD0iI0ZFRkVGRSIvPjwvc3ZnPg==&logoColor=white)](https://spb.hh.ru/resume/7de60396ff099911fa0039ed1f306663386f35)
+-->
 
+<!--
 [![Channel](https://img.shields.io/badge/channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/egorindev)
 [![VK](https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/nezort11)
+-->
 
+<!--
 [![Resume](https://img.shields.io/badge/resume-0061FF?style=for-the-badge&logo=dropbox&logoColor=white)](https://www.dropbox.com/s/7lzws5idhokfgdi/CV.pdf)
 
-<hr width="200px" />
 
+<hr width="200px" />
+-->
+
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nezort11/)
 [![Fiverr](https://img.shields.io/badge/fiverr-00c770?logo=data:image/svg+xml;base64,PHN2ZyBpZD0iU3ZnanNTdmcxMDA2IiB3aWR0aD0iMjg4IiBoZWlnaHQ9IjI4OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpzdmdqcz0iaHR0cDovL3N2Z2pzLmNvbS9zdmdqcyI+PGRlZnMgaWQ9IlN2Z2pzRGVmczEwMDciPjwvZGVmcz48ZyBpZD0iU3ZnanNHMTAwOCIgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLDApIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI4OCIgaGVpZ2h0PSIyODgiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNDEzLjY5NiwzOTkuNzUxVjE2OS43NUgxODQuMzJ2LTE0LjM3NWMwLTIzLjc3OSwxOS4yOTUtNDMuMTI0LDQzLjAwNC00My4xMjRoNDMuMDA4di04Ni4yNSAgICAgaC00My4wMDhjLTcxLjEzNCwwLTEyOS4wMTksNTguMDQ0LTEyOS4wMTksMTI5LjM3NHYxNC4zNzVINDAuOTYyVjI1Nmg1Ny4zNDJ2MTQzLjc1MUg0MC45NjJ2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEgxODQuMzJWMjU2ICAgICBoMTQ0LjE1N3YxNDMuNzUxaC01OC4xNDV2ODYuMjQ4aDIwMC43MDV2LTg2LjI0OEg0MTMuNjk2eiIgY2xhc3M9ImNvbG9yMWRiZjczIHN2Z1NoYXBlIj48L3BhdGg+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTM3MC42ODUsMTEyLjI1MWMyMy43NTEsMCw0My4wMTItMTkuMzA2LDQzLjAxMi00My4xMjVjMC0yMy44MjEtMTkuMjYxLTQzLjEyNS00My4wMTItNDMuMTI0ICAgICBjLTIzLjc0OSwwLTQzLjAwNSwxOS4zMDMtNDMuMDA1LDQzLjEyNEMzMjcuNjgsOTIuOTQ1LDM0Ni45MzYsMTEyLjI1MSwzNzAuNjg1LDExMi4yNTF6IiBjbGFzcz0iY29sb3IxZGJmNzMgc3ZnU2hhcGUiPjwvcGF0aD48L3N2Zz48L2c+PC9zdmc+&style=for-the-badge&logoColor=white)](https://www.fiverr.com/nezort11)
+-->
 
 <!--
 Facebook
@@ -53,12 +62,16 @@ Instagram
 TikTok
 -->
 
+<!--
 <hr width="200px" />
+-->
 
 <a href="https://stackoverflow.com/users/13774599/nezort11"><img src="https://stackoverflow.com/users/flair/13774599.png" width="208" height="58" alt="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers" title="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--[![Codeberg](https://img.shields.io/badge/codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/nezort11)-->
+<!--
 [![PyPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/nezort11/)
+-->
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nezort11)
 
 <!--
@@ -72,8 +85,6 @@ Freelancing and doing hobby projects 🔭
 - 🖼 **Frontend**
 
   - **Web apps (*Web3/SPA/SSR*)**: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 <sub><sup>(10)<sup></sub>
-
-    <hr width="200px" />
 
   - Websites / Landings (*SSG*): ⚡️
 
@@ -91,11 +102,13 @@ Freelancing and doing hobby projects 🔭
 
 <!--  - Electron apps: ⚡️ -->
 
+<!--
 - ⚙️ Backend
 
   - API (*REST*): ⚡️⚡️⚡️⚡️⚡️⚡️ <sub><sup>(5)<sup></sub>
 
   - MVT: ⚡️
+-->
 
 <!-- - 📐 Markup (*web/responsive*): ⚡️⚡️⚡️ <sub><sup>(3)<sup></sub>-->
 
@@ -103,6 +116,7 @@ Freelancing and doing hobby projects 🔭
 
 - 🎨 UI/UX: ⚡️
 
+<!--
 - 🧪 QA: ⚡️
 
 - ✍️ Writing: ⚡️
@@ -112,6 +126,7 @@ Freelancing and doing hobby projects 🔭
 - 🐍 Scripting: ⚡️
 
 - 🧠 Problem solving: ⚡️
+-->
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/Nezort11?theme=default&font=baloo&extension=null&width=470)](https://leetcode.com/Nezort11)
 
@@ -251,7 +266,6 @@ The stack is modern and perfect ✨ for such apps.
 - [django-rest-knox-allauth](https://github.com/nezort11/django-rest-knox-allauth): Django endpoints integration for [django-allauth](https://github.com/pennersr/django-allauth) + [django-rest-knox](https://github.com/James1345/django-rest-knox)
 - [dotfiles](https://github.com/nezort11/dotfiles): Amazing configuration, setting and code snippet files for productivity
 
-
 🐶 Pet projects:
 
 - [problems](https://github.com/nezort11/problems/): Solved CS algorithmic problems
@@ -272,6 +286,7 @@ The stack is modern and perfect ✨ for such apps.
 - [Weight Tracker](https://github.com/nezort11/weight-tracker): Manage your weight by making food records
 - [Learning Log](https://github.com/nezort11/django-learning-logs): Blog webapp for keeping track of learnt stuff
 
+<!--
 🏃‍♂️ Freelance projects:
 
 - [Multivendor](https://github.com/nezort11/multivendor): Sell physical adspaces
@@ -292,6 +307,7 @@ The stack is modern and perfect ✨ for such apps.
 🧱 Rock'n'Block projects:
 
 - [ZEROGAS Crowdsale Frontend](https://github.com/rock-n-block/zero-gas-crowdsale-frontend): 0GAS token crowdsale in React.js
+-->
 
 <!--
 ## 🗒️ Recent notes
@@ -340,6 +356,7 @@ Hi, I can develop a *RESTful web API* using Django w/ or w/o a *frontend webapp*
 </details>
 -->
 
+<!--
 ## 💸 Finance
 
 <details open>
@@ -384,6 +401,7 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 *(scan via Tinkoff app)*
 
 </details>
+-->
 
 ## 📊 Stats
 
@@ -403,9 +421,11 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 
 <img alt="Profile summary" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nezort11&branding=false&style=--header-bg-color:%20rgb(253,%20246,%20227);--header-text-color:%20rgb(38,%20139,%20210);%20--name-font-size:%2020px;--name-font-weight:%201000;" />
 
+## 📈 Coding activity
+
 <a href="https://wakatime.com/@nezort11"><img alt="Wakatime" height="25px" src="https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg" /></a> <sup>coded since Nov 2021</sup>
 
-## 📈 Coding activity
+⛰ [Skyline 2021](https://skyline.github.com/nezort11/2021)
 
 <details open>
   <summary>
@@ -434,13 +454,15 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
   <img alt="Wakatime languages all time" width="690px" src="https://wakatime.com/share/@nezort11/4c5d49b0-10bc-47ad-af1c-11d3c8272b80.svg" />
 </details>
 
+<!--
 ## ⛏ Contributions
-
-⛰ [Skyline 2021](https://skyline.github.com/nezort11/2021)
+-->
 
 <!-- https://platane.github.io/snk/ -->
 
+<!--
 ![Contributions snake status](./img/github-user-contribution.svg)
 
 <img alt="Activity chart" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=nezor11&labels=true&branding=false" />
+-->
 
