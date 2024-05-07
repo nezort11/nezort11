@@ -2,13 +2,16 @@
 
 <h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Yegor</a> 🦜</h3>
 
-<h2 align="center">I try to develop <i>cool</i> stuff 💻</h2>
+<h2 align="center">Code some stuff 💻</h2>
+<!--<h2 align="center">I try to develop <i>cool</i> stuff 💻</h2>-->
 
+<!--
 
 **TypeScript + React.js + MUI = 🔥**
 
-
 - 💼 I work at fronend.
+
+-->
 
 - 👨‍💻 I am a software developer.
 
@@ -18,7 +21,9 @@
 
 <!--- 🌍 Doing projects is my [life](https://github.com/users/nezort11/projects/2)style.-->
 
+<!--
 - 🖤 My personal hobbies include webdev, self-hosting & scripting.
+-->
 
 <!-- - 🌈 My work is about *Crypto, Web3, Blockchain, Dapps, DeFi, Stablecoin, ICO, NFT, FinTech, DEXs,  CEXs, DAO, Metaverse*. -->
 
@@ -82,15 +87,19 @@ Freelancing and doing hobby projects 🔭
 
 ## 💪 Perks
 
+<!--
 - 🖼 **Frontend**
 
   - **Web apps (*Web3/SPA/SSR*)**: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 <sub><sup>(10)<sup></sub>
 
   - Websites / Landings (*SSG*): ⚡️
+-->
 
 <!--  - Mobile apps (*Android/iOS*): ⚡️ -->
 
+<!--
     <hr width="200px" />
+-->
   
   - Extensions (*Firefox/Chrome*): ⚡️
 
@@ -112,9 +121,11 @@ Freelancing and doing hobby projects 🔭
 
 <!-- - 📐 Markup (*web/responsive*): ⚡️⚡️⚡️ <sub><sup>(3)<sup></sub>-->
 
+<!--
 - 📦 DevOps (*IaaS/PaaS*): ⚡️⚡️⚡️⚡️ <sub><sup>(4)<sup></sub>
 
 - 🎨 UI/UX: ⚡️
+-->
 
 <!--
 - 🧪 QA: ⚡️
@@ -257,6 +268,7 @@ The stack is modern and perfect ✨ for such apps.
 
 <img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false&" />
 
+<!--
 ## 📅 Projects
 
 🔓 Open-source projects: 
@@ -285,6 +297,7 @@ The stack is modern and perfect ✨ for such apps.
 - [Wikipedia](https://github.com/nezort11/encyclopedia): Server-side rendered wiki pages
 - [Weight Tracker](https://github.com/nezort11/weight-tracker): Manage your weight by making food records
 - [Learning Log](https://github.com/nezort11/django-learning-logs): Blog webapp for keeping track of learnt stuff
+-->
 
 <!--
 🏃‍♂️ Freelance projects:
@@ -417,7 +430,9 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 
 [<img alt="Egor's wakatime stats" width="690px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nezort11&layout=default&langs_count=6&last_7_days&custom_title=Wakatime%20last%207%20days&theme=solarized-light&border_color=00000000" />](https://wakatime.com/@nezort11)
 
+<!--
 <img alt="Skills chart" width="690px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nezort11&skills=TypeScript,JavaScript,Python,HTML,CSS,SCSS&branding=false&sort-by-score=true&bg=antiquewhite" />
+-->
 
 <img alt="Profile summary" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nezort11&branding=false&style=--header-bg-color:%20rgb(253,%20246,%20227);--header-text-color:%20rgb(38,%20139,%20210);%20--name-font-size:%2020px;--name-font-weight:%201000;" />
 
@@ -425,7 +440,7 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 
 <a href="https://wakatime.com/@nezort11"><img alt="Wakatime" height="25px" src="https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg" /></a> <sup>coded since Nov 2021</sup>
 
-⛰ [Skyline 2021](https://skyline.github.com/nezort11/2021)
+⛰ [Skyline 2023](https://skyline.github.com/nezort11/2023)
 
 <details open>
   <summary>
