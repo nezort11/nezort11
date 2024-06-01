@@ -101,7 +101,7 @@ Freelancing and doing hobby projects 🔭
     <hr width="200px" />
 -->
   
-  - Extensions (*Firefox/Chrome*): ⚡️
+<!--  - Extensions (*Firefox/Chrome*): ⚡️ -->
 
 <!--  - Webview apps (*Android*): ⚡️-->
 
@@ -141,15 +141,21 @@ Freelancing and doing hobby projects 🔭
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/Nezort11?theme=default&font=baloo&extension=null&width=470)](https://leetcode.com/Nezort11)
 
+<!-- 
 ## 🌟 Freelance/Pet Stack
 
 <!--
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/egor4ik325/my-stack)
 -->
 
+<!-- 
+
 The stack is most suitable for creating _medium/large synchronous monolithic RESTful APIs_ 🔌
 for _single-page or server-side rendered applications_ 📄 and deployment in the cloud _VPS_ ☁️.
 The stack is modern and perfect ✨ for such apps.
+-->
+
+<!-- 
 
 ⚙️ [**Backend**](https://github.com/stars/nezort11/lists/backend-stack):
 
@@ -242,12 +248,17 @@ The stack is modern and perfect ✨ for such apps.
 
 </details>
 
+-->
+
+<!--
 🎨 UI/UX:
 
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
+-->
 
 <!--<hr width="200px" />-->
 
+<!--
 🐍 Scripting:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
@@ -264,9 +275,13 @@ The stack is modern and perfect ✨ for such apps.
 
 <a href="https://codetrace.com/users/Egor4ik325"><img src="https://codetrace.com/widget/Egor4ik325" width="255" height="58" alt="codetrace profile" title="CodeTrace profile" /></a>
 
+-->
+
+<!--
 ## ⏳ Timeline
 
 <img alt="Work experience" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=nezort11&logos=true&branding=false&" />
+-->
 
 <!--
 ## 📅 Projects
