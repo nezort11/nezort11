@@ -457,7 +457,9 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 
 <a href="https://wakatime.com/@nezort11"><img alt="Wakatime" height="25px" src="https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg" /></a> <sup>coded since Nov 2021</sup>
 
+<!--
 ⛰ [Skyline 2023](https://skyline.github.com/nezort11/2023)
+-->
 
 <details open>
   <summary>
