@@ -449,7 +449,9 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 <img alt="Skills chart" width="690px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nezort11&skills=TypeScript,JavaScript,Python,HTML,CSS,SCSS&branding=false&sort-by-score=true&bg=antiquewhite" />
 -->
 
+<!--
 <img alt="Profile summary" width="690px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nezort11&branding=false&style=--header-bg-color:%20rgb(253,%20246,%20227);--header-text-color:%20rgb(38,%20139,%20210);%20--name-font-size:%2020px;--name-font-weight:%201000;" />
+-->
 
 ## 📈 Coding activity
 
