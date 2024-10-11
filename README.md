@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Yegor</a> 🦜</h3>
 
-<h2 align="center">Code some stuff 💻</h2>
+<h2 align="center">Coging some stuff... 💻</h2>
 <!--<h2 align="center">I try to develop <i>cool</i> stuff 💻</h2>-->
 
 <!--
@@ -13,9 +13,11 @@
 
 -->
 
-- 👨‍💻 I am a software developer.
+- 👨‍💻 Live as a software developer.
 
+<!--
 - 🦄 I have a dream to develop shiny app.
+-->
 
 - 🍓 I use Raspberry Pi as a server.
 
@@ -37,6 +39,7 @@
 
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nezort11)
 [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nezort11)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nezort11)
 
 <!--
 [![TenChat](https://img.shields.io/badge/tenchat-fc3234?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white)](https://tenchat.ru/nezort11)
@@ -77,8 +80,6 @@ TikTok
 <!--
 [![PyPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/nezort11/)
 -->
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nezort11)
-
 <!--
 ## 🛠 Current project
 
@@ -438,12 +439,18 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nezort11&theme=solarized)
 ![Languages by commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nezort11&theme=solarized)
 
+<!--
 ![GitHub commits per hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nezort11&theme=solarized&utcOffset=3)
 ![Languages by repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nezort11&theme=solarized) 
+-->
 
+<!--
 <img alt="GitHub Streak" width="690px" src="https://github-readme-streak-stats.herokuapp.com?user=nezort11&date_format=j%20M%5B%20Y%5D&theme=solarized-light&hide_border=true" />
+-->
 
+<!--
 [<img alt="Egor's wakatime stats" width="690px" src="https://github-readme-stats.vercel.app/api/wakatime?username=nezort11&layout=default&langs_count=6&last_7_days&custom_title=Wakatime%20last%207%20days&theme=solarized-light&border_color=00000000" />](https://wakatime.com/@nezort11)
+-->
 
 <!--
 <img alt="Skills chart" width="690px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nezort11&skills=TypeScript,JavaScript,Python,HTML,CSS,SCSS&branding=false&sort-by-score=true&bg=antiquewhite" />
@@ -455,7 +462,9 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 
 ## 📈 Coding activity
 
+<!--
 <a href="https://wakatime.com/@nezort11"><img alt="Wakatime" height="25px" src="https://wakatime.com/badge/user/0801e752-de74-44cb-a3ef-c564083431bb.svg" /></a> <sup>coded since Nov 2021</sup>
+-->
 
 <!--
 ⛰ [Skyline 2023](https://skyline.github.com/nezort11/2023)
