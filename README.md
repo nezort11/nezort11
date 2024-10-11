@@ -470,7 +470,7 @@ https://www.tinkoff.ru/rm/zorin.egor15/fM2C160416
 ⛰ [Skyline 2023](https://skyline.github.com/nezort11/2023)
 -->
 
-<details open>
+<details>
   <summary>
     <b>Last 7 days</b>
   </summary>
