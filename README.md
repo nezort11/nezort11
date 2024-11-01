@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Yegor</a> 🦜</h3>
 
-<h2 align="center">Coging some stuff... 💻</h2>
+<h2 align="center">Coding some stuff... 💻</h2>
 <!--<h2 align="center">I try to develop <i>cool</i> stuff 💻</h2>-->
 
 <!--
