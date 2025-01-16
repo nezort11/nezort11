@@ -1,9 +1,10 @@
 <!--<img src="https://user-images.githubusercontent.com/59317431/182343129-776c3d11-7eda-4a5f-aac0-081cf940b906.png" alt="profile banner" /> -->
 <img src="https://github.com/user-attachments/assets/9b280d61-c108-4005-a5d9-6a15858cb3b6" alt="profile banner" />
 
-<h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">Yegor</a> 🦜</h3>
+<!-- <h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">George</a> 🦜</h3> -->
+<h3 align="center">Hi, I'm George 💻</h3>
 
-<h2 align="center">Coding some stuff... 💻</h2>
+<!--<h2 align="center">Coding some stuff... 💻</h2>-->
 <!--<h2 align="center">I try to develop <i>cool</i> stuff 💻</h2>-->
 
 <!--
