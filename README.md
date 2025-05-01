@@ -18,6 +18,8 @@
 
 - 👨‍💻 Live as a software developer.
 
+- 🐶 Very like developing new pet/side projects.
+
 <!--
 - 🦄 I have a dream to develop shiny app.
 -->
