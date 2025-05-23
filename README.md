@@ -3,7 +3,9 @@
 <img src="https://github.com/user-attachments/assets/e8fbdb67-2dc4-478d-90bb-a4fb056295f2" alt="profile banner" />
 
 <!-- <h3 align="center">Hi, I'm <a href="http://egorindev.com" target="_blank" rel="noreferrer">George</a> 🦜</h3> -->
-<h3 align="center">Hi, I'm George 💻</h3>
+<h3 align="center">Hi, I'm George! 💻</h3>
+
+<hr />
 
 <!--<h2 align="center">Coding some stuff... 💻</h2>-->
 <!--<h2 align="center">I try to develop <i>cool</i> stuff 💻</h2>-->
@@ -16,15 +18,13 @@
 
 -->
 
-- 👨‍💻 Live as a software developer.
+- 👨‍💻 I live as a software developer.
 
-- 🐶 Very like developing new pet/side projects.
+- 🐶 Enjoy developing new pet/side projects.
 
 <!--
 - 🦄 I have a dream to develop shiny app.
 -->
-
-- 🍓 I use Raspberry Pi as a server.
 
 <!--- 🌍 Doing projects is my [life](https://github.com/users/nezort11/projects/2)style.-->
 
@@ -34,16 +34,17 @@
 
 <!-- - 🌈 My work is about *Crypto, Web3, Blockchain, Dapps, DeFi, Stablecoin, ICO, NFT, FinTech, DEXs,  CEXs, DAO, Metaverse*. -->
 
-- ✨ I constantly seek for inspiration for new projects.
+- ✨ I constantly seek for inspiration.
+
+<!--- - 🍓 I use Raspberry Pi as a server. -->
 
 <!--- 📫 Reach me via [email](mailto:nezort11@gmail.com) or [telegram](https://t.me/nezort11).-->
 
 <!--- ❌ I'm not ~~CMS|system|DS/ML/AI|gamedev/VR/AR|IoT|blockchain/web3/DeFi/fintech|hacking|engineer/scientist/businessman~~   dApps.-->
 
-## 👋💼 Me
+<!--- ## 👋💼 Me -->
 
 <!---[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nezort11)-->
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nezort11)
 <!---[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nezort11)-->
 <!---[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nezort11/)-->
 
@@ -80,8 +81,6 @@ TikTok
 <hr width="200px" />
 -->
 
-<a href="https://stackoverflow.com/users/13774599/nezort11"><img src="https://stackoverflow.com/users/flair/13774599.png" width="208" height="58" alt="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers" title="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers"></a>
-
 <!--[![Codeberg](https://img.shields.io/badge/codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/nezort11)-->
 <!--
 [![PyPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/nezort11/)
@@ -93,6 +92,11 @@ Freelancing and doing hobby projects 🔭
 -->
 
 ## 💪 Perks
+
+
+<a href="https://stackoverflow.com/users/13774599/nezort11"><img src="https://stackoverflow.com/users/flair/13774599.png" width="208" height="58" alt="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers" title="Stack Overflow profile, Q&amp;A for professional and enthusiast programmers"></a>
+
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nezort11)
 
 <!--
 - 🖼 **Frontend**
